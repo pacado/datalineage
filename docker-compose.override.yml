@@ -1,0 +1,45 @@
+version: "3.1"
+services:
+  web:
+    image: marquezproject/marquez-web:latest
+    container_name: marquez-web
+    environment:
+      - MARQUEZ_HOST=api
+      - MARQUEZ_PORT=5000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+
+  db:
+    image: postgres:14.9
+    container_name: marquez-db
+    ports:
+      - "6543:6543"
+    environment:
+      - POSTGRES_USER=marquez
+      - POSTGRES_PASSWORD=marquez
+      - POSTGRES_DB=marquez
+
+  api:
+    image: marquezproject/marquez:latest
+    container_name: marquez-api
+    environment:
+      - MARQUEZ_PORT=5000
+      - MARQUEZ_ADMIN_PORT=5001
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+    volumes:
+      - ./docker/wait-for-it.sh:/usr/src/app/wait-for-it.sh
+    links:
+      - "db:postgres"
+    depends_on:
+      - db
+    entrypoint:
+      ["/bin/bash", "./wait-for-it.sh", "db:6543", "--", "./entrypoint.sh"]
+
+  redis:
+    image: bitnami/redis:6.0.6
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes

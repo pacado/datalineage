@@ -1,0 +1,1201 @@
+CustID,CustAge,TmAtAddress,ResStatus,EmpStatus,CustIncome,TmWBank,OtherCC,AMBalance,UtilRate,status
+1,53,62,Tenant,Unknown,50000,55,Yes,1055.93,0.22,0
+2,61,22,Home Owner,Employed,52000,25,Yes,1161.58,0.24,0
+3,47,30,Tenant,Employed,37000,61,No,877.23,0.29,0
+4,50,75,Home Owner,Employed,53000,20,Yes,157.37,0.08,0
+5,68,56,Home Owner,Employed,53000,14,Yes,561.84,0.11,0
+6,65,13,Home Owner,Employed,48000,59,Yes,968.18,0.15,0
+7,34,32,Home Owner,Unknown,32000,26,Yes,717.82,0.02,1
+8,50,57,Other,Employed,51000,33,No,3041.2,0.13,0
+9,50,10,Tenant,Unknown,52000,25,Yes,115.56,0.02,1
+10,49,30,Home Owner,Unknown,53000,23,Yes,718.5,0.17,1
+11,52,24,Tenant,Unknown,34000,44,Yes,119.8,0.07,1
+12,48,91,Other,Unknown,44000,14,Yes,403.62,0.03,0
+13,65,63,Home Owner,Unknown,48000,6,No,111.88,0.02,0
+14,44,75,Other,Unknown,41000,35,No,436.41,0.18,0
+15,46,82,Other,Employed,46000,16,Yes,162.21,0.04,0
+16,33,47,Home Owner,Employed,36000,36,Yes,845.02,0.24,0
+17,39,10,Tenant,Employed,34000,40,Yes,756.26,0.27,1
+18,24,7,Home Owner,Employed,22000,19,Yes,449.61,0.24,0
+19,53,14,Home Owner,Employed,51000,11,Yes,519.46,0.42,1
+20,52,55,Other,Unknown,42000,12,Yes,1269.17,0.21,0
+21,37,13,Tenant,Unknown,33000,22,No,819.27,0.07,1
+22,51,13,Home Owner,Employed,35000,33,Yes,468.85,0.01,0
+23,38,29,Other,Unknown,20000,9,Yes,404.83,0.13,0
+24,43,41,Tenant,Employed,30000,12,Yes,304.08,0.09,0
+25,56,27,Other,Unknown,42000,40,Yes,856.06,0.24,1
+26,52,9,Home Owner,Unknown,37000,19,Yes,1203.52,0.11,1
+27,45,5,Other,Employed,43000,25,Yes,323.22,0.06,0
+28,40,64,Home Owner,Unknown,31000,10,Yes,504.08,0.1,0
+29,58,34,Home Owner,Unknown,58000,11,No,603.34,0.14,1
+30,36,39,Home Owner,Employed,33000,65,Yes,1018.98,0.47,0
+31,44,17,Tenant,Employed,32000,42,Yes,2150.45,0.32,0
+32,46,6,Tenant,Unknown,37000,16,Yes,310.21,0.04,1
+33,46,8,Tenant,Unknown,32000,26,Yes,940.78,0.3,0
+34,58,18,Tenant,Unknown,44000,27,Yes,697.85,0.54,1
+35,35,23,Tenant,Unknown,48000,39,Yes,1119.01,0.05,1
+36,36,48,Other,Employed,30000,21,No,2272.85,0.85,1
+37,60,58,Tenant,Employed,41000,52,Yes,582.96,0.43,0
+38,57,62,Tenant,Employed,58000,70,Yes,193.69,0.06,0
+39,56,42,Home Owner,Employed,47000,51,Yes,1188.87,0.23,0
+40,57,31,Tenant,Unknown,54000,19,Yes,124.04,0.05,0
+41,41,18,Home Owner,Unknown,45000,28,No,1374.5,0.41,1
+42,33,8,Home Owner,Employed,31000,42,Yes,587.95,0.09,1
+43,40,29,Home Owner,Employed,33000,117,Yes,919.49,0.27,0
+44,30,32,Other,Unknown,33000,30,Yes,776.63,0.04,0
+45,47,27,Tenant,Unknown,39000,26,Yes,2339.96,1.53,1
+46,38,26,Other,Unknown,47000,19,Yes,1395.15,0.11,0
+47,52,56,Tenant,Employed,56000,79,Yes,294.46,0.12,0
+48,49,56,Tenant,Employed,49000,13,Yes,253.02,0.08,0
+49,41,57,Home Owner,Unknown,30000,48,Yes,79.87,0.05,0
+50,38,12,Tenant,Unknown,28000,11,Yes,407.24,0.06,1
+51,48,12,Home Owner,Employed,34000,3,Yes,819.3,0.29,0
+52,59,17,Home Owner,Employed,60000,45,Yes,613.35,0.25,0
+53,48,73,Tenant,Employed,46000,68,Yes,747.77,0.34,0
+54,47,86,Home Owner,Employed,33000,56,Yes,608.14,0.21,0
+55,38,19,Other,Employed,33000,41,No,1883.49,0.2,1
+56,52,52,Tenant,Employed,48000,68,Yes,1266.89,0.08,0
+57,43,59,Tenant,Unknown,36000,37,Yes,214.3,0.03,0
+58,56,56,Home Owner,Unknown,50000,11,Yes,1474.24,0.18,1
+59,49,18,Home Owner,Employed,45000,15,No,38.9,0.01,0
+60,53,112,Tenant,Unknown,42000,48,Yes,175.01,0.12,1
+61,51,45,Tenant,Employed,34000,40,Yes,21.59,0.01,0
+62,69,75,Tenant,Employed,53000,46,Yes,498.51,0.06,0
+63,43,4,Tenant,Unknown,30000,53,Yes,233.22,0.02,1
+64,42,85,Tenant,Employed,34000,40,Yes,1089.28,0.55,0
+65,42,34,Tenant,Unknown,37000,17,Yes,287.36,0.05,1
+66,48,67,Home Owner,Unknown,50000,47,Yes,271.88,0.07,0
+67,39,3,Tenant,Employed,37000,42,Yes,112.61,0.05,0
+68,54,11,Tenant,Unknown,40000,42,Yes,975.88,0.62,1
+69,40,72,Tenant,Unknown,40000,8,Yes,593.03,0.09,1
+70,44,35,Tenant,Employed,38000,28,Yes,743.34,0.02,0
+71,49,64,Home Owner,Employed,37000,8,Yes,881.68,0.3,0
+72,57,28,Tenant,Unknown,45000,27,Yes,704.65,0.25,0
+73,52,7,Tenant,Unknown,38000,34,Yes,1410.27,0.12,0
+74,44,6,Tenant,Employed,39000,19,Yes,1716.78,0.48,1
+75,35,39,Tenant,Unknown,42000,42,No,1147.27,0.07,0
+76,52,50,Tenant,Unknown,39000,57,Yes,849.39,0.36,0
+77,66,19,Home Owner,Employed,45000,13,Yes,1322.21,0.08,0
+78,55,79,Home Owner,Employed,39000,57,Yes,856.65,0.01,1
+79,45,20,Tenant,Employed,39000,31,Yes,633.61,0.07,0
+80,59,15,Home Owner,Unknown,45000,19,No,292.34,0.05,1
+81,38,59,Home Owner,Unknown,51000,7,Yes,931.52,0.58,0
+82,41,18,Home Owner,Employed,33000,92,Yes,330.21,0.12,1
+83,40,28,Home Owner,Employed,42000,121,Yes,984.09,0.26,0
+84,47,45,Home Owner,Unknown,43000,51,Yes,457.13,0.04,0
+85,38,30,Home Owner,Employed,30000,49,Yes,454.88,0.06,0
+86,38,39,Tenant,Unknown,27000,7,Yes,228.59,0.08,1
+87,47,72,Tenant,Employed,37000,10,Yes,1830.51,0.43,1
+88,69,54,Other,Unknown,54000,4,Yes,1008.09,0.15,0
+89,42,20,Home Owner,Employed,38000,3,Yes,12.86,0.01,0
+90,37,23,Home Owner,Employed,40000,21,Yes,71.09,0.02,0
+91,30,49,Home Owner,Unknown,34000,38,Yes,1614.13,0.17,0
+92,30,36,Tenant,Unknown,26000,36,Yes,1812.24,0.25,1
+93,35,119,Tenant,Employed,37000,41,Yes,229.6,0.08,0
+94,46,55,Tenant,Unknown,34000,17,Yes,10.13,0,1
+95,43,46,Tenant,Employed,30000,11,Yes,2474.21,1.62,0
+96,58,42,Home Owner,Unknown,39000,7,Yes,350.84,0.2,0
+97,35,46,Tenant,Unknown,37000,24,Yes,271.14,0.01,0
+98,50,28,Home Owner,Employed,41000,18,Yes,923.04,0.28,0
+99,43,67,Home Owner,Unknown,35000,4,Yes,1084.81,0.22,1
+100,45,17,Home Owner,Unknown,21000,56,Yes,7.22,0,0
+101,34,18,Tenant,Employed,41000,88,Yes,939.75,0.15,0
+102,59,106,Home Owner,Unknown,45000,16,No,649.67,0.09,1
+103,64,49,Home Owner,Employed,50000,35,Yes,118.43,0,0
+104,61,70,Tenant,Employed,52000,28,Yes,381.33,0.18,0
+105,28,48,Home Owner,Employed,34000,85,Yes,568.84,0.01,0
+106,65,43,Home Owner,Unknown,46000,18,Yes,1115.89,0.53,0
+107,55,11,Tenant,Employed,47000,58,Yes,754.71,0.17,0
+108,37,21,Home Owner,Unknown,32000,14,Yes,833.67,0.34,0
+109,49,21,Tenant,Employed,39000,12,Yes,502.17,0.22,0
+110,51,16,Home Owner,Employed,45000,17,Yes,2121.54,0.64,0
+111,24,27,Home Owner,Unknown,31000,25,Yes,1460.27,0.05,0
+112,38,28,Home Owner,Employed,40000,31,Yes,470.48,0.08,0
+113,37,106,Home Owner,Employed,42000,15,No,1350.6,1.09,0
+114,46,8,Tenant,Unknown,44000,35,Yes,2651.4,0.17,1
+115,44,23,Tenant,Unknown,45000,49,Yes,834.14,0.08,0
+116,47,10,Other,Employed,41000,60,Yes,837.7,0.5,0
+117,50,71,Home Owner,Employed,44000,95,Yes,1241.26,0.1,0
+118,56,3,Other,Unknown,45000,45,No,540.37,0.13,0
+119,51,20,Tenant,Employed,36000,70,Yes,1116.7,0.36,0
+120,37,30,Tenant,Unknown,33000,13,Yes,190.42,0.02,0
+121,50,13,Other,Employed,33000,41,Yes,1798.66,0.42,0
+122,50,82,Tenant,Unknown,49000,10,No,827.36,0.25,0
+123,42,70,Tenant,Employed,40000,33,No,1759.69,0.74,1
+124,61,54,Home Owner,Unknown,51000,51,Yes,86.44,0,1
+125,37,23,Tenant,Employed,43000,62,Yes,863.33,0.28,0
+126,41,13,Tenant,Employed,42000,64,Yes,2267.06,0.97,1
+127,36,51,Home Owner,Employed,37000,14,No,866.01,0.53,1
+128,60,45,Home Owner,Unknown,44000,82,Yes,708.63,0.08,0
+129,53,119,Home Owner,Employed,39000,15,Yes,791.63,0.23,0
+130,50,57,Home Owner,Unknown,50000,19,Yes,720.76,0.32,0
+131,46,4,Home Owner,Employed,36000,8,Yes,262.89,0.02,0
+132,73,2,Home Owner,Unknown,56000,102,Yes,780.93,0.01,0
+133,66,22,Other,Unknown,59000,40,Yes,1211.67,0.5,0
+134,42,95,Home Owner,Employed,43000,14,Yes,234.13,0.03,0
+135,29,28,Tenant,Unknown,38000,6,Yes,372.67,0.02,0
+136,59,13,Tenant,Unknown,46000,14,Yes,1199.48,0.31,0
+137,48,100,Tenant,Unknown,48000,55,Yes,46.14,0,0
+138,44,31,Other,Employed,41000,2,Yes,1101.84,0.32,0
+139,38,39,Home Owner,Employed,30000,7,No,180.16,0.07,1
+140,36,21,Home Owner,Unknown,35000,33,Yes,920.13,0.39,1
+141,32,26,Home Owner,Employed,28000,15,No,12.29,0,0
+142,34,63,Home Owner,Employed,29000,28,Yes,876.28,0.15,0
+143,41,33,Tenant,Employed,34000,38,Yes,206.57,0.07,0
+144,51,65,Tenant,Employed,48000,34,Yes,1802.55,0.01,0
+145,44,12,Other,Unknown,33000,4,Yes,37.38,0,1
+146,42,5,Home Owner,Unknown,47000,26,Yes,800.92,0.17,0
+147,48,23,Tenant,Employed,35000,10,No,337.32,0.18,0
+148,34,38,Tenant,Employed,37000,31,Yes,1135.94,0.2,0
+149,54,100,Home Owner,Employed,45000,52,No,998.47,0.27,0
+150,36,5,Home Owner,Unknown,46000,46,Yes,790.07,0.6,1
+151,55,5,Other,Unknown,57000,38,Yes,1668.7,0.25,0
+152,64,95,Tenant,Employed,55000,24,Yes,2555,0.24,0
+153,26,26,Home Owner,Unknown,25000,75,Yes,1045.36,0.57,0
+154,36,51,Tenant,Employed,32000,76,Yes,445.37,0.14,0
+155,47,76,Home Owner,Unknown,38000,77,Yes,337.55,0.01,0
+156,45,112,Tenant,Unknown,31000,60,Yes,473.21,0.1,0
+157,37,66,Other,Unknown,33000,7,Yes,1450.34,0.32,0
+158,38,22,Tenant,Unknown,28000,16,No,112.95,0.01,1
+159,39,26,Tenant,Employed,39000,107,Yes,499.02,0.05,0
+160,35,15,Other,Employed,30000,8,Yes,978.68,0.54,1
+161,22,51,Home Owner,Employed,23000,23,Yes,1284.96,0.27,1
+162,43,53,Tenant,Employed,36000,71,Yes,1093.56,0.86,1
+163,57,19,Other,Employed,41000,3,Yes,350.2,0,0
+164,38,39,Other,Unknown,23000,77,Yes,177.15,0.05,0
+165,48,21,Home Owner,Unknown,38000,70,No,1217.03,0.2,0
+166,47,28,Home Owner,Unknown,35000,42,Yes,231.4,0.02,0
+167,49,25,Other,Employed,45000,16,No,1852.17,0,0
+168,57,55,Tenant,Unknown,37000,39,Yes,163.89,0.06,0
+169,55,32,Home Owner,Unknown,47000,12,Yes,2471.57,0.36,1
+170,49,29,Tenant,Unknown,46000,28,Yes,1268.7,0.78,0
+171,40,3,Home Owner,Unknown,21000,20,Yes,164.63,0.12,0
+172,45,20,Tenant,Employed,49000,9,No,55.64,0.02,1
+173,51,12,Other,Employed,35000,25,Yes,499.55,0.43,0
+174,55,37,Tenant,Employed,45000,22,Yes,1514.43,0.23,1
+175,38,69,Home Owner,Employed,34000,26,Yes,1029.94,0.27,0
+176,27,15,Tenant,Unknown,28000,13,Yes,1040.85,0.12,0
+177,45,79,Tenant,Unknown,35000,32,Yes,18.63,0.01,0
+178,58,111,Home Owner,Unknown,47000,22,No,851.52,0.01,0
+179,50,38,Home Owner,Unknown,49000,31,Yes,471.42,0.2,0
+180,41,15,Other,Employed,44000,11,No,598.58,0.33,1
+181,48,58,Other,Employed,50000,30,Yes,87.61,0.02,0
+182,43,65,Other,Employed,39000,121,Yes,988.39,0.11,1
+183,28,85,Home Owner,Employed,36000,11,Yes,880.34,0.07,0
+184,56,24,Other,Employed,43000,74,Yes,2649.97,1.02,0
+185,27,24,Tenant,Unknown,38000,65,Yes,613.69,0.05,0
+186,47,132,Tenant,Unknown,31000,20,Yes,158.87,0.1,0
+187,36,154,Tenant,Unknown,27000,43,Yes,805.4,0.1,0
+188,42,52,Home Owner,Unknown,40000,89,No,1112.96,0.21,0
+189,56,35,Tenant,Unknown,53000,68,Yes,715.27,0.21,0
+190,63,40,Tenant,Employed,45000,55,No,14.7,0.01,0
+191,45,35,Home Owner,Employed,37000,38,Yes,1019.51,0.59,0
+192,67,43,Other,Unknown,58000,16,No,1553.56,0.12,1
+193,50,57,Tenant,Employed,52000,46,Yes,381.83,0.01,0
+194,49,14,Tenant,Employed,42000,2,Yes,356.02,0.13,0
+195,38,26,Home Owner,Unknown,21000,72,Yes,1035.7,0.2,0
+196,52,38,Home Owner,Employed,47000,39,Yes,1311.13,0.23,0
+197,29,14,Home Owner,Employed,48000,20,Yes,405.61,0.02,1
+198,44,45,Home Owner,Unknown,33000,11,Yes,252.2,0.1,1
+199,59,50,Tenant,Unknown,38000,38,Yes,38.66,0.01,1
+200,37,9,Tenant,Unknown,33000,23,Yes,97.01,0.02,0
+201,26,85,Tenant,Unknown,31000,56,Yes,943.16,0.18,0
+202,43,40,Tenant,Unknown,33000,62,No,267.4,0.11,0
+203,45,3,Tenant,Employed,49000,43,No,1480.33,0.41,1
+204,32,86,Home Owner,Employed,38000,17,Yes,1118,0.19,1
+205,49,68,Home Owner,Unknown,35000,14,No,1310.13,0.47,1
+206,31,52,Home Owner,Employed,30000,80,Yes,364.09,0,0
+207,50,38,Home Owner,Employed,48000,12,No,573.9,0.1,0
+208,24,3,Tenant,Unknown,26000,8,No,83.92,0.02,1
+209,48,19,Home Owner,Employed,40000,11,Yes,100.2,0.02,0
+210,37,10,Tenant,Unknown,48000,12,Yes,573.43,0,1
+211,43,66,Tenant,Employed,49000,46,Yes,474.7,0.26,0
+212,37,57,Other,Unknown,32000,57,No,622.86,0.21,1
+213,32,50,Tenant,Employed,25000,22,Yes,1356.23,0.33,1
+214,56,27,Tenant,Unknown,49000,24,Yes,511.67,0.11,0
+215,34,6,Tenant,Unknown,47000,46,Yes,1203.39,0.52,0
+216,37,7,Other,Employed,31000,71,Yes,1717.67,0.26,1
+217,48,50,Home Owner,Unknown,35000,16,Yes,15.62,0,1
+218,51,31,Home Owner,Unknown,44000,23,Yes,1234.26,0.1,0
+219,48,33,Tenant,Employed,44000,20,Yes,360.87,0.21,0
+220,46,58,Tenant,Unknown,31000,9,Yes,2008.24,0.54,0
+221,41,33,Other,Employed,29000,13,Yes,2134.02,0.74,0
+222,54,59,Home Owner,Unknown,35000,38,Yes,955.22,0.42,1
+223,41,27,Other,Employed,35000,34,Yes,904.52,0.22,0
+224,46,113,Home Owner,Employed,35000,79,No,1106.63,0.34,0
+225,29,46,Tenant,Employed,39000,24,Yes,2231.9,1.61,1
+226,34,70,Home Owner,Employed,42000,28,Yes,898.9,0.01,0
+227,53,94,Tenant,Employed,54000,55,No,1068.59,0.23,1
+228,50,46,Tenant,Employed,36000,6,Yes,1444.23,0.2,0
+229,34,45,Home Owner,Unknown,44000,59,Yes,207.3,0.12,1
+230,38,53,Tenant,Unknown,27000,22,Yes,668.88,0.01,1
+231,43,6,Tenant,Unknown,40000,39,Yes,96.18,0.02,0
+232,30,116,Tenant,Unknown,38000,15,Yes,808.69,0.12,1
+233,49,10,Tenant,Employed,37000,51,Yes,850.32,0.15,0
+234,51,12,Home Owner,Unknown,53000,20,Yes,1454.29,0.52,1
+235,43,24,Home Owner,Employed,37000,19,Yes,1698.61,0.11,0
+236,56,25,Tenant,Employed,51000,5,Yes,185.22,0.01,0
+237,51,31,Home Owner,Employed,40000,61,Yes,750.03,0.26,0
+238,46,39,Home Owner,Employed,50000,89,Yes,387.06,0.03,0
+239,45,23,Home Owner,Unknown,38000,9,Yes,473.58,0.29,0
+240,30,40,Tenant,Unknown,33000,12,No,172.97,0.01,1
+241,36,67,Home Owner,Unknown,27000,35,Yes,2353.26,1.71,1
+242,48,49,Home Owner,Employed,42000,85,Yes,744.2,0.26,0
+243,36,65,Tenant,Employed,55000,31,Yes,644.24,0.34,0
+244,36,25,Home Owner,Unknown,29000,58,Yes,895.86,0.04,1
+245,40,15,Tenant,Employed,39000,65,Yes,537.87,0.28,0
+246,33,24,Other,Unknown,25000,12,Yes,1861.03,0.69,1
+247,39,17,Tenant,Unknown,38000,11,Yes,1578.01,0.67,0
+248,32,57,Home Owner,Unknown,28000,92,Yes,424.51,0.22,0
+249,29,46,Home Owner,Employed,33000,53,No,2475.69,0.55,0
+250,45,33,Tenant,Unknown,31000,16,No,813.37,0.18,0
+251,25,38,Tenant,Unknown,26000,10,No,1227.4,0.74,0
+252,39,26,Home Owner,Unknown,34000,19,Yes,751.79,0.15,1
+253,39,61,Tenant,Unknown,36000,11,Yes,1250.67,0.64,0
+254,40,38,Tenant,Unknown,22000,31,No,201.68,0.04,0
+255,53,25,Other,Employed,49000,55,Yes,1093.45,0.04,0
+256,49,15,Home Owner,Employed,43000,12,Yes,1319.84,0.1,1
+257,29,55,Home Owner,Employed,44000,17,Yes,120.77,0.01,0
+258,58,62,Home Owner,Unknown,43000,43,Yes,1643.2,0.44,0
+259,54,51,Tenant,Employed,37000,103,Yes,260.44,0.03,0
+260,39,27,Home Owner,Unknown,22000,52,Yes,1337.03,0.26,1
+261,50,71,Home Owner,Unknown,48000,10,No,1541.92,0.22,1
+262,44,125,Home Owner,Unknown,33000,32,Yes,1930.78,0.55,1
+263,48,5,Tenant,Employed,36000,22,Yes,1224.22,0.33,0
+264,59,22,Tenant,Employed,53000,6,Yes,17.92,0.01,0
+265,41,13,Home Owner,Employed,43000,5,Yes,765.8,0.2,0
+266,37,62,Home Owner,Employed,26000,16,Yes,933.22,0.14,1
+267,55,45,Home Owner,Employed,38000,8,Yes,206.57,0.12,1
+268,31,8,Home Owner,Employed,32000,49,Yes,1657.88,0.8,0
+269,42,48,Home Owner,Employed,37000,8,Yes,938.64,0.68,0
+270,48,48,Tenant,Unknown,40000,4,Yes,1252.81,0.59,0
+271,30,48,Home Owner,Unknown,28000,73,Yes,1077.45,0.73,0
+272,36,34,Home Owner,Employed,35000,83,Yes,1118.35,0.53,0
+273,44,61,Tenant,Unknown,28000,17,Yes,785.78,0.36,0
+274,29,3,Home Owner,Employed,24000,24,Yes,101.54,0.02,0
+275,36,106,Home Owner,Unknown,46000,17,Yes,3156.43,0.06,0
+276,40,65,Tenant,Unknown,39000,43,Yes,393.79,0.07,0
+277,42,23,Home Owner,Unknown,37000,67,Yes,259.78,0.03,0
+278,47,60,Tenant,Employed,39000,34,Yes,293.81,0.16,0
+279,44,3,Tenant,Unknown,19000,17,Yes,1419.92,1,1
+280,43,78,Tenant,Unknown,19000,49,Yes,721.88,0.53,1
+281,61,73,Home Owner,Unknown,39000,122,No,1484.77,0.18,0
+282,48,73,Tenant,Employed,44000,9,Yes,1002.28,0.25,1
+283,51,22,Tenant,Unknown,37000,34,No,536.28,0.43,0
+284,59,32,Other,Unknown,52000,9,No,98.75,0.01,0
+285,46,4,Home Owner,Employed,33000,11,Yes,2023.72,0.98,0
+286,54,37,Tenant,Unknown,44000,50,Yes,984.24,0.12,0
+287,49,91,Home Owner,Employed,39000,20,Yes,487.67,0.02,0
+288,59,103,Home Owner,Unknown,40000,67,Yes,714.43,0.08,1
+289,41,55,Home Owner,Unknown,32000,57,Yes,1320.22,0.07,0
+290,36,59,Tenant,Unknown,38000,29,Yes,1312.1,0.14,1
+291,42,38,Tenant,Unknown,40000,11,Yes,934.8,0.06,0
+292,40,34,Tenant,Employed,30000,50,Yes,252.95,0.09,0
+293,40,13,Other,Employed,45000,45,Yes,836.09,0.01,0
+294,31,9,Tenant,Unknown,28000,23,Yes,638.96,0.03,1
+295,44,67,Tenant,Unknown,40000,7,Yes,1268.94,0.47,1
+296,31,34,Tenant,Employed,24000,10,Yes,706.52,0.04,1
+297,54,19,Home Owner,Employed,44000,78,Yes,1626.74,0.92,1
+298,43,106,Tenant,Employed,38000,52,Yes,777.48,0.18,1
+299,57,26,Other,Unknown,48000,39,No,785.7,0.15,0
+300,49,16,Tenant,Employed,34000,17,Yes,179.41,0.01,0
+301,48,91,Other,Unknown,38000,21,Yes,606.3,0.1,1
+302,44,78,Home Owner,Employed,43000,28,Yes,660.91,0.09,1
+303,45,6,Tenant,Unknown,41000,78,Yes,36.38,0.01,0
+304,49,70,Tenant,Unknown,48000,8,Yes,145.43,0.01,1
+305,46,46,Other,Employed,40000,118,Yes,97.46,0.03,0
+306,21,37,Tenant,Employed,21000,84,No,230.61,0.01,1
+307,58,19,Tenant,Unknown,43000,114,Yes,836.67,0.34,0
+308,73,32,Home Owner,Unknown,51000,5,Yes,473.72,0.32,0
+309,45,13,Home Owner,Employed,42000,13,Yes,939.99,0.02,0
+310,55,22,Tenant,Employed,42000,16,No,1148.82,0.44,1
+311,46,41,Tenant,Employed,43000,27,Yes,500.29,0.19,1
+312,53,31,Home Owner,Employed,35000,34,Yes,1093.3,0.15,0
+313,43,5,Tenant,Employed,38000,7,Yes,1571.96,0.18,0
+314,50,59,Home Owner,Unknown,50000,37,No,96.75,0.01,0
+315,35,42,Home Owner,Employed,28000,27,No,612.67,0.13,0
+316,33,36,Home Owner,Employed,47000,37,Yes,800.52,0.19,0
+317,67,32,Home Owner,Unknown,44000,68,Yes,121.9,0.1,1
+318,47,73,Home Owner,Employed,49000,4,Yes,326.5,0.07,0
+319,44,6,Tenant,Employed,36000,22,Yes,800.06,0.06,0
+320,53,9,Tenant,Employed,39000,26,Yes,1865.56,0.28,0
+321,50,89,Other,Unknown,49000,7,No,739.56,0.21,1
+322,51,42,Tenant,Employed,52000,41,Yes,622.74,0.08,1
+323,27,39,Home Owner,Unknown,28000,39,Yes,948.65,0.1,1
+324,51,3,Tenant,Employed,37000,22,Yes,375.75,0.16,0
+325,53,42,Other,Employed,48000,17,Yes,436.27,0.23,0
+326,46,101,Tenant,Unknown,51000,86,Yes,1059.64,0.01,1
+327,43,20,Home Owner,Unknown,43000,6,Yes,337.83,0.13,0
+328,52,20,Tenant,Employed,50000,23,Yes,1202.51,0.31,0
+329,32,51,Home Owner,Employed,34000,19,No,1171.05,0.39,1
+330,42,51,Tenant,Unknown,37000,22,No,513.44,0.11,0
+331,42,37,Home Owner,Employed,35000,15,Yes,669.6,0.16,0
+332,74,25,Other,Unknown,45000,5,Yes,129.46,0.06,0
+333,34,73,Other,Unknown,18000,57,Yes,1220.36,0.07,1
+334,50,2,Tenant,Employed,34000,49,Yes,674.56,0.31,1
+335,43,46,Tenant,Unknown,41000,7,Yes,385.18,0.23,0
+336,33,16,Home Owner,Employed,33000,8,Yes,39.95,0,0
+337,40,50,Home Owner,Employed,36000,75,Yes,349.8,0.09,0
+338,32,68,Other,Employed,36000,13,Yes,57.35,0.02,1
+339,40,57,Tenant,Employed,37000,16,Yes,226.87,0.05,1
+340,33,31,Home Owner,Unknown,32000,85,Yes,457.23,0.08,0
+341,55,51,Home Owner,Employed,48000,26,No,1531.39,0.09,0
+342,42,77,Tenant,Employed,32000,10,Yes,1273.76,0.68,0
+343,40,95,Tenant,Employed,36000,29,Yes,1082.35,0.46,0
+344,49,3,Tenant,Employed,45000,67,Yes,1774.04,0.15,0
+345,50,5,Tenant,Employed,33000,20,Yes,358.33,0,0
+346,50,37,Home Owner,Unknown,40000,26,Yes,849.86,0.31,1
+347,54,46,Home Owner,Employed,43000,18,Yes,77.5,0.02,0
+348,39,60,Home Owner,Unknown,39000,127,Yes,1193.99,0.19,1
+349,66,33,Tenant,Employed,45000,24,No,496.37,0.32,1
+350,27,84,Home Owner,Employed,36000,23,Yes,847.32,0.65,0
+351,44,38,Home Owner,Employed,36000,2,Yes,424.7,0.12,1
+352,39,54,Tenant,Employed,44000,14,Yes,1360.71,0.02,0
+353,53,63,Tenant,Employed,38000,16,Yes,38.26,0,1
+354,49,32,Other,Employed,42000,12,Yes,315.99,0,0
+355,49,32,Home Owner,Unknown,53000,3,Yes,1051.29,0.06,0
+356,60,34,Home Owner,Employed,55000,18,Yes,487.26,0.14,0
+357,45,63,Home Owner,Unknown,40000,2,Yes,376.77,0.23,0
+358,54,40,Other,Employed,35000,4,No,1238.97,0.43,1
+359,51,78,Other,Employed,53000,5,Yes,246.27,0.01,0
+360,48,132,Tenant,Employed,48000,47,Yes,624.7,0.11,0
+361,52,12,Home Owner,Employed,54000,10,Yes,1420.01,0.76,1
+362,44,58,Home Owner,Employed,31000,60,Yes,167.21,0.01,0
+363,40,115,Tenant,Unknown,28000,4,Yes,1763.43,1.62,1
+364,50,33,Home Owner,Employed,35000,6,Yes,110.75,0.01,1
+365,53,62,Home Owner,Unknown,37000,65,Yes,187.52,0.05,0
+366,44,91,Tenant,Employed,39000,9,Yes,831.07,0.08,0
+367,56,32,Home Owner,Employed,41000,8,Yes,1296.88,0.29,1
+368,61,13,Home Owner,Unknown,42000,30,No,1475,0.48,0
+369,60,19,Home Owner,Unknown,46000,29,Yes,756.31,0.19,0
+370,41,6,Tenant,Unknown,41000,24,Yes,2253.14,0.31,1
+371,57,38,Home Owner,Unknown,40000,29,Yes,1312.74,0.09,1
+372,47,74,Home Owner,Unknown,37000,51,Yes,712.07,0.1,0
+373,58,42,Tenant,Unknown,48000,2,Yes,875.97,0.23,1
+374,52,9,Tenant,Employed,44000,61,Yes,268.86,0.09,0
+375,54,45,Home Owner,Employed,49000,13,Yes,1059.27,0.74,0
+376,50,36,Tenant,Unknown,37000,6,Yes,42.64,0.01,0
+377,31,65,Home Owner,Unknown,37000,36,Yes,565.33,0.18,0
+378,35,11,Tenant,Employed,51000,32,Yes,1016.99,0.39,1
+379,37,8,Home Owner,Unknown,26000,49,Yes,580.12,0,1
+380,43,56,Tenant,Unknown,34000,78,Yes,476.81,0.23,0
+381,39,42,Other,Unknown,30000,51,Yes,919.03,0.06,1
+382,40,40,Tenant,Employed,40000,30,Yes,1396.18,0.33,0
+383,24,37,Home Owner,Employed,32000,8,Yes,383.63,0.07,1
+384,37,11,Home Owner,Employed,37000,87,Yes,755.22,0.32,0
+385,51,44,Other,Employed,39000,30,Yes,2434.4,0.45,1
+386,59,14,Tenant,Unknown,41000,11,Yes,794.84,0.14,1
+387,54,30,Home Owner,Employed,42000,59,No,929.69,0.1,0
+388,37,33,Tenant,Employed,34000,97,Yes,401.67,0.15,0
+389,56,5,Other,Employed,37000,12,Yes,588.49,0.06,1
+390,51,6,Tenant,Unknown,50000,69,Yes,296.46,0.16,0
+391,48,32,Home Owner,Unknown,54000,25,Yes,1203.89,0.33,0
+392,45,35,Tenant,Unknown,34000,66,Yes,969.45,0.13,1
+393,52,113,Tenant,Employed,46000,91,Yes,634.45,0.12,0
+394,45,70,Home Owner,Employed,34000,50,Yes,1541.68,0.08,0
+395,39,35,Home Owner,Unknown,24000,13,Yes,2002.47,0.6,1
+396,46,47,Home Owner,Unknown,41000,57,Yes,2213.38,0.11,0
+397,56,83,Tenant,Employed,50000,67,Yes,703.07,0.04,0
+398,43,61,Home Owner,Employed,34000,38,Yes,186.95,0.01,0
+399,45,35,Tenant,Employed,46000,6,No,42.85,0.02,1
+400,37,26,Home Owner,Unknown,41000,8,No,774.76,0.2,1
+401,48,51,Other,Unknown,39000,54,Yes,647.1,0.03,1
+402,37,22,Tenant,Employed,28000,35,Yes,910.04,0.25,1
+403,42,46,Home Owner,Employed,37000,22,Yes,1537.63,0.9,0
+404,44,14,Home Owner,Unknown,40000,8,Yes,2326.34,0.62,1
+405,37,16,Home Owner,Unknown,26000,16,Yes,105.38,0.06,1
+406,50,93,Tenant,Unknown,51000,29,Yes,111.83,0.05,0
+407,36,36,Home Owner,Employed,33000,33,Yes,287.4,0.1,0
+408,32,26,Tenant,Unknown,24000,43,Yes,558.73,0.07,0
+409,37,14,Other,Employed,41000,53,Yes,364.59,0.07,0
+410,44,13,Other,Employed,33000,84,Yes,585.31,0,0
+411,52,29,Home Owner,Unknown,50000,88,Yes,1254.28,0.71,0
+412,46,24,Home Owner,Employed,33000,38,Yes,294.5,0.08,0
+413,36,16,Tenant,Employed,27000,8,Yes,1246.93,0.12,0
+414,50,43,Home Owner,Unknown,44000,26,Yes,102.59,0,0
+415,37,72,Tenant,Unknown,35000,15,Yes,1194.89,0.83,1
+416,32,45,Tenant,Employed,42000,7,Yes,1271.73,0.92,1
+417,35,20,Tenant,Unknown,26000,39,Yes,61.98,0,0
+418,43,43,Tenant,Employed,40000,10,Yes,257.9,0.07,0
+419,35,26,Home Owner,Unknown,32000,65,No,545.87,0.25,1
+420,42,99,Tenant,Unknown,30000,68,No,1121.21,0.29,1
+421,49,99,Home Owner,Employed,39000,45,Yes,517.16,0.08,0
+422,72,12,Tenant,Unknown,61000,10,No,2101.37,1.29,0
+423,57,10,Other,Unknown,39000,13,Yes,427.82,0.01,0
+424,32,62,Other,Employed,31000,21,Yes,647.31,0.02,0
+425,38,61,Tenant,Employed,27000,83,Yes,687.44,0.09,0
+426,37,2,Other,Employed,33000,9,No,692.65,0.09,1
+427,49,15,Home Owner,Unknown,46000,39,Yes,26.99,0.01,0
+428,45,22,Tenant,Unknown,34000,72,Yes,178.29,0.09,1
+429,37,64,Home Owner,Unknown,41000,33,Yes,266.02,0.06,0
+430,41,94,Home Owner,Unknown,43000,79,Yes,2589.43,0.59,0
+431,50,7,Home Owner,Unknown,35000,17,Yes,54.24,0,0
+432,42,81,Other,Employed,56000,5,No,733.7,0.23,0
+433,24,78,Home Owner,Unknown,28000,56,Yes,612.52,0.1,1
+434,58,84,Tenant,Employed,51000,80,Yes,888.93,0.44,0
+435,30,37,Tenant,Unknown,24000,12,Yes,1307.37,0.54,1
+436,46,107,Other,Employed,36000,16,Yes,558.88,0.11,0
+437,34,75,Home Owner,Employed,35000,10,No,1040.56,0.41,0
+438,41,76,Home Owner,Unknown,35000,18,Yes,25.98,0.01,1
+439,36,6,Tenant,Employed,34000,54,Yes,1520.77,0.02,1
+440,45,58,Home Owner,Unknown,24000,63,Yes,379.75,0.06,0
+441,38,34,Home Owner,Employed,43000,21,Yes,931.12,0.08,1
+442,27,43,Tenant,Employed,39000,28,Yes,114.12,0.04,0
+443,28,8,Tenant,Employed,27000,8,Yes,907,0.52,1
+444,38,14,Other,Unknown,27000,11,No,1477.54,0.36,0
+445,38,4,Home Owner,Employed,33000,23,Yes,1076.65,0.66,1
+446,49,16,Tenant,Employed,45000,21,Yes,832.61,0.36,0
+447,54,83,Tenant,Employed,39000,105,Yes,1049.34,0.13,0
+448,41,100,Tenant,Employed,33000,58,Yes,53,0.03,1
+449,57,36,Other,Unknown,40000,2,Yes,895,0.36,1
+450,40,103,Home Owner,Unknown,30000,11,No,1632.03,0.59,1
+451,43,17,Other,Unknown,30000,29,No,421.82,0.15,1
+452,29,59,Other,Unknown,36000,6,Yes,1497.9,0.62,1
+453,33,66,Home Owner,Employed,32000,28,Yes,21.87,0.01,1
+454,49,105,Home Owner,Unknown,38000,5,Yes,854.01,0.28,1
+455,61,31,Other,Unknown,42000,63,Yes,39.15,0.01,0
+456,46,9,Home Owner,Employed,35000,4,No,3.86,0,0
+457,39,19,Other,Unknown,29000,10,Yes,2053.44,0.86,0
+458,47,47,Home Owner,Employed,48000,32,Yes,631.14,0.23,0
+459,52,24,Tenant,Unknown,36000,33,Yes,886.98,0.26,0
+460,51,26,Home Owner,Unknown,50000,92,Yes,506.74,0.07,0
+461,47,91,Home Owner,Unknown,35000,49,Yes,483.45,0.24,0
+462,73,76,Other,Unknown,47000,56,Yes,663.21,0.27,0
+463,46,12,Tenant,Unknown,37000,43,Yes,635.55,0.21,1
+464,52,73,Home Owner,Unknown,43000,77,Yes,939.95,0.05,0
+465,60,51,Home Owner,Unknown,57000,41,Yes,310.75,0.03,1
+466,42,22,Home Owner,Unknown,39000,14,No,1183.26,0.47,0
+467,43,57,Home Owner,Employed,43000,21,Yes,247.28,0.02,1
+468,50,13,Home Owner,Unknown,46000,57,Yes,825.07,0.41,0
+469,67,84,Home Owner,Employed,48000,32,No,456.84,0.12,0
+470,33,120,Home Owner,Unknown,25000,22,Yes,1096.22,0.19,1
+471,63,38,Home Owner,Unknown,56000,16,Yes,234.16,0.15,0
+472,32,19,Tenant,Unknown,33000,23,Yes,51.99,0,1
+473,46,101,Home Owner,Employed,43000,38,Yes,367,0.04,1
+474,59,43,Other,Unknown,42000,21,Yes,1246.58,0.41,0
+475,54,37,Other,Unknown,46000,49,Yes,878.5,0.18,1
+476,28,58,Home Owner,Unknown,30000,28,Yes,1347.52,0.32,0
+477,63,34,Home Owner,Employed,49000,37,Yes,474.77,0.12,1
+478,57,17,Tenant,Unknown,37000,36,No,396.67,0.16,1
+479,67,134,Tenant,Unknown,49000,7,Yes,1184.91,0.12,1
+480,35,13,Tenant,Employed,33000,74,Yes,790.96,0.34,1
+481,54,80,Tenant,Unknown,38000,16,Yes,1148.97,0.1,1
+482,33,60,Other,Employed,29000,6,Yes,772.21,0.01,0
+483,49,55,Tenant,Unknown,48000,6,Yes,218.36,0.07,1
+484,56,27,Home Owner,Unknown,51000,13,No,29.32,0,0
+485,41,10,Home Owner,Unknown,35000,55,Yes,578.94,0.02,1
+486,64,40,Other,Unknown,45000,60,Yes,86.1,0.05,0
+487,54,5,Tenant,Employed,39000,7,Yes,252.59,0.04,0
+488,49,15,Home Owner,Unknown,47000,12,Yes,175.65,0.06,0
+489,49,132,Home Owner,Employed,40000,5,Yes,484.11,0.03,0
+490,21,31,Other,Employed,22000,51,Yes,429,0.06,0
+491,33,36,Tenant,Employed,42000,15,Yes,430.55,0.03,0
+492,43,27,Home Owner,Employed,32000,36,Yes,613.07,0,1
+493,54,33,Tenant,Unknown,37000,3,Yes,895.58,0.04,1
+494,69,119,Home Owner,Unknown,50000,23,Yes,1053.25,0.37,0
+495,55,7,Home Owner,Employed,59000,15,Yes,1008.71,0.14,0
+496,39,64,Home Owner,Employed,48000,17,Yes,898.63,0.41,1
+497,36,89,Other,Unknown,28000,34,No,1589.22,0.07,0
+498,63,69,Other,Unknown,51000,6,Yes,1318.48,0.67,0
+499,49,9,Tenant,Unknown,37000,92,Yes,2015.17,0.96,1
+500,41,59,Home Owner,Employed,35000,14,Yes,373.47,0.07,1
+501,66,58,Home Owner,Unknown,48000,3,Yes,232.32,0.11,0
+502,56,20,Home Owner,Employed,42000,7,Yes,341.17,0.07,0
+503,36,9,Home Owner,Employed,40000,26,Yes,57.92,0.02,0
+504,46,113,Other,Unknown,39000,27,No,536.68,0.09,0
+505,22,39,Tenant,Employed,23000,71,Yes,653.67,0.09,0
+506,40,58,Tenant,Employed,38000,16,Yes,131.41,0.05,0
+507,56,11,Tenant,Unknown,56000,55,Yes,1409.65,0.06,0
+508,37,122,Tenant,Unknown,42000,6,Yes,462.78,0.14,0
+509,38,40,Home Owner,Unknown,30000,50,Yes,1874.62,0.37,1
+510,60,14,Home Owner,Unknown,45000,47,Yes,1192.31,0.81,0
+511,51,2,Home Owner,Unknown,48000,45,Yes,2087.2,0.91,0
+512,36,57,Tenant,Employed,31000,9,Yes,245.79,0.07,0
+513,46,50,Home Owner,Employed,40000,37,Yes,1080.27,0.13,0
+514,69,74,Other,Unknown,52000,24,No,1113.24,0.55,0
+515,45,22,Tenant,Unknown,45000,48,Yes,478.22,0.13,1
+516,48,69,Home Owner,Employed,32000,56,Yes,515.58,0.04,0
+517,35,102,Tenant,Unknown,37000,18,Yes,587.11,0.15,0
+518,32,33,Other,Unknown,31000,9,Yes,1224.73,0.41,0
+519,34,69,Other,Unknown,35000,14,Yes,975.56,0.3,0
+520,54,27,Other,Unknown,55000,74,Yes,600.19,0.13,0
+521,48,18,Other,Unknown,37000,70,Yes,604.5,0.07,0
+522,50,22,Home Owner,Unknown,45000,36,Yes,358.56,0.12,0
+523,34,80,Home Owner,Unknown,25000,49,Yes,720.85,0.07,1
+524,58,14,Other,Employed,40000,2,Yes,1643.27,0.64,0
+525,41,11,Home Owner,Unknown,30000,25,Yes,640.59,0.06,1
+526,44,90,Home Owner,Unknown,39000,29,Yes,178.52,0.02,0
+527,56,13,Home Owner,Employed,50000,29,Yes,1429.11,0.29,0
+528,32,38,Home Owner,Employed,40000,58,Yes,617.8,0.22,1
+529,55,8,Tenant,Unknown,51000,11,No,814.04,0.06,1
+530,48,12,Home Owner,Unknown,38000,72,Yes,1126.71,0.14,0
+531,64,39,Home Owner,Unknown,46000,18,Yes,496.76,0.08,0
+532,46,42,Other,Employed,37000,26,Yes,1295.45,0.35,0
+533,62,57,Home Owner,Unknown,41000,2,Yes,161.57,0.03,0
+534,58,69,Home Owner,Unknown,50000,11,Yes,721.68,0.42,1
+535,43,40,Home Owner,Unknown,46000,17,Yes,83.62,0.01,1
+536,51,53,Home Owner,Unknown,46000,94,Yes,511,0.15,0
+537,53,96,Home Owner,Employed,48000,13,Yes,93.01,0.01,0
+538,50,70,Home Owner,Employed,53000,29,Yes,381.16,0.28,1
+539,39,34,Tenant,Unknown,56000,2,Yes,833.02,0.23,0
+540,36,36,Tenant,Employed,31000,56,Yes,134.75,0.02,0
+541,71,49,Tenant,Unknown,52000,16,Yes,562.83,0.17,0
+542,46,63,Home Owner,Employed,33000,53,Yes,754.66,0.34,0
+543,45,7,Tenant,Employed,59000,24,Yes,186.54,0.02,0
+544,50,26,Other,Unknown,38000,32,No,1083.22,0.01,1
+545,49,43,Home Owner,Unknown,34000,24,Yes,859.53,0.34,0
+546,64,61,Tenant,Unknown,42000,23,Yes,5.11,0,0
+547,38,7,Home Owner,Employed,33000,61,Yes,538.71,0.16,0
+548,46,22,Home Owner,Employed,48000,14,Yes,1630.39,0.29,0
+549,30,49,Tenant,Unknown,30000,53,Yes,570.5,0.08,0
+550,46,18,Home Owner,Unknown,34000,51,No,2615.5,1.97,0
+551,45,13,Home Owner,Unknown,20000,7,Yes,1807.23,0.13,1
+552,37,18,Home Owner,Unknown,29000,2,Yes,165.2,0,1
+553,64,12,Home Owner,Unknown,41000,33,Yes,1165.58,0.26,0
+554,35,113,Home Owner,Unknown,37000,21,No,898.44,0.04,1
+555,50,20,Home Owner,Unknown,42000,39,No,806.58,0.01,1
+556,47,104,Home Owner,Employed,38000,91,Yes,1632.41,0.14,0
+557,41,14,Tenant,Employed,34000,68,Yes,210.38,0.07,0
+558,58,19,Tenant,Employed,44000,12,No,991.15,0.36,0
+559,63,71,Tenant,Unknown,43000,13,Yes,145.09,0.04,0
+560,56,14,Other,Unknown,46000,37,Yes,1482.1,0.02,1
+561,36,49,Tenant,Employed,41000,11,Yes,581.21,0.08,0
+562,52,76,Tenant,Unknown,39000,15,Yes,1287.85,0.18,1
+563,55,8,Other,Employed,42000,55,No,552.83,0.29,0
+564,29,21,Other,Unknown,25000,17,Yes,693.41,0.01,1
+565,65,57,Home Owner,Employed,54000,21,No,1310.13,0.4,1
+566,64,8,Home Owner,Unknown,46000,47,Yes,562.34,0.25,0
+567,44,26,Home Owner,Employed,40000,48,Yes,1286.98,0.24,0
+568,55,20,Home Owner,Employed,40000,37,No,1187.65,0.02,0
+569,27,3,Tenant,Unknown,25000,43,Yes,608,0,1
+570,43,12,Tenant,Unknown,41000,17,Yes,194.41,0.04,1
+571,48,12,Home Owner,Unknown,36000,6,Yes,1150.09,0.11,1
+572,21,69,Other,Unknown,22000,40,Yes,1866.68,0.82,0
+573,50,10,Tenant,Unknown,34000,89,No,598.46,0.28,0
+574,45,59,Home Owner,Unknown,47000,9,Yes,175.18,0.01,0
+575,49,17,Other,Employed,37000,4,Yes,1056.69,0.29,0
+576,49,48,Home Owner,Employed,43000,14,Yes,297.45,0.06,0
+577,43,48,Tenant,Employed,48000,36,Yes,453.55,0.02,0
+578,38,33,Home Owner,Unknown,46000,118,Yes,915.68,0.28,1
+579,49,40,Home Owner,Unknown,41000,24,Yes,1652.65,0.17,0
+580,44,7,Tenant,Employed,37000,67,Yes,214.71,0.03,0
+581,57,20,Tenant,Unknown,52000,49,Yes,1519.86,0.04,1
+582,38,83,Home Owner,Unknown,40000,32,Yes,988.61,0.09,0
+583,62,128,Home Owner,Employed,44000,14,No,34.56,0.02,0
+584,34,15,Home Owner,Unknown,33000,40,Yes,1750.59,1.68,1
+585,56,8,Home Owner,Employed,36000,41,Yes,866.85,0.12,0
+586,52,32,Other,Employed,48000,50,Yes,272.16,0.12,0
+587,36,23,Home Owner,Employed,26000,36,Yes,967.43,0.3,1
+588,41,43,Home Owner,Employed,36000,10,Yes,2501.3,0.63,1
+589,55,13,Home Owner,Employed,57000,76,Yes,3812,0.49,0
+590,32,14,Home Owner,Employed,31000,4,Yes,353.08,0.08,0
+591,44,92,Tenant,Unknown,59000,4,Yes,702.93,0.2,1
+592,34,37,Home Owner,Employed,37000,11,Yes,558.42,0.07,0
+593,41,30,Home Owner,Employed,36000,20,Yes,777.47,0.46,1
+594,30,9,Tenant,Employed,30000,29,Yes,331.94,0.05,1
+595,56,51,Home Owner,Unknown,38000,62,Yes,1853.55,0.47,0
+596,45,3,Home Owner,Employed,41000,7,Yes,2669.1,0.82,0
+597,51,17,Tenant,Unknown,35000,62,Yes,612.88,0.18,0
+598,37,11,Tenant,Employed,32000,8,Yes,1164.05,0.52,0
+599,43,61,Tenant,Unknown,37000,21,Yes,3029.34,0.86,1
+600,52,6,Home Owner,Unknown,39000,61,Yes,1427.58,0.97,0
+601,68,26,Tenant,Unknown,52000,24,Yes,676.07,0.19,0
+602,55,17,Home Owner,Employed,55000,45,Yes,950.58,0.61,0
+603,59,66,Tenant,Unknown,45000,3,No,397.11,0.13,0
+604,54,85,Home Owner,Employed,39000,35,Yes,811.21,0.22,0
+605,47,23,Home Owner,Employed,36000,26,Yes,108.07,0.04,0
+606,41,8,Tenant,Employed,35000,20,Yes,452,0.1,0
+607,51,26,Tenant,Employed,44000,22,Yes,65.68,0.01,0
+608,35,41,Tenant,Unknown,45000,52,Yes,977.45,0.26,0
+609,43,62,Tenant,Unknown,47000,33,Yes,21.09,0.01,0
+610,55,48,Tenant,Employed,37000,84,Yes,917.19,0.44,0
+611,52,4,Tenant,Employed,47000,59,Yes,978.67,0.29,0
+612,42,99,Home Owner,Employed,43000,30,Yes,234.1,0.04,1
+613,44,41,Tenant,Unknown,53000,6,Yes,509.72,0.14,1
+614,36,110,Tenant,Employed,35000,26,Yes,42.81,0.01,0
+615,53,71,Home Owner,Unknown,38000,47,Yes,1335.06,0.1,0
+616,43,9,Tenant,Employed,52000,60,Yes,684.81,0.33,0
+617,42,77,Home Owner,Employed,41000,32,Yes,1059.47,0.45,0
+618,54,68,Home Owner,Employed,38000,20,No,1966.61,1.07,0
+619,32,117,Home Owner,Unknown,30000,50,Yes,1961.5,0.34,0
+620,32,22,Tenant,Employed,37000,56,Yes,1409.91,0.35,0
+621,40,52,Home Owner,Unknown,31000,9,Yes,424.54,0.11,0
+622,49,97,Other,Employed,40000,88,No,861.08,0.16,0
+623,39,23,Home Owner,Unknown,33000,54,Yes,437.37,0.19,0
+624,52,101,Other,Employed,45000,14,Yes,299.07,0.05,0
+625,37,69,Other,Unknown,19000,46,Yes,635.7,0.39,0
+626,55,38,Home Owner,Unknown,37000,42,Yes,204.76,0.12,0
+627,28,81,Home Owner,Employed,30000,19,Yes,711.3,0.2,0
+628,31,25,Tenant,Unknown,28000,52,Yes,1283.55,0.6,0
+629,51,26,Home Owner,Unknown,40000,32,Yes,653.24,0.48,1
+630,52,72,Home Owner,Employed,52000,16,Yes,584.28,0.19,0
+631,42,3,Home Owner,Employed,45000,92,Yes,878.19,0.7,0
+632,43,11,Home Owner,Employed,48000,21,Yes,1303.37,0.3,0
+633,43,44,Home Owner,Unknown,41000,28,Yes,1177.87,0.56,1
+634,63,42,Tenant,Unknown,43000,37,Yes,238.34,0.02,0
+635,42,63,Home Owner,Unknown,36000,51,Yes,167.11,0,0
+636,45,43,Tenant,Employed,37000,57,Yes,607.58,0.19,0
+637,53,7,Home Owner,Unknown,42000,76,Yes,290.39,0.12,1
+638,48,80,Tenant,Unknown,49000,27,Yes,366.17,0.03,0
+639,36,17,Tenant,Unknown,45000,66,Yes,1088.7,0.34,1
+640,30,21,Home Owner,Employed,35000,125,Yes,1458.58,0.31,0
+641,52,20,Other,Employed,41000,18,No,403.7,0.13,1
+642,36,27,Other,Unknown,33000,50,Yes,131.25,0.05,0
+643,27,62,Home Owner,Employed,24000,22,No,727.27,0.09,0
+644,50,16,Tenant,Unknown,45000,53,Yes,1339.88,0.52,1
+645,63,37,Home Owner,Employed,53000,81,Yes,1494.43,0.32,0
+646,22,43,Tenant,Unknown,21000,79,Yes,1079.88,0.23,0
+647,48,20,Tenant,Unknown,39000,46,Yes,139.6,0.02,1
+648,27,103,Tenant,Unknown,23000,9,Yes,503.74,0.01,1
+649,61,53,Home Owner,Unknown,43000,32,Yes,498.25,0.07,0
+650,55,88,Tenant,Employed,44000,31,Yes,547.79,0.25,1
+651,56,46,Other,Employed,41000,2,No,1002.8,0.55,1
+652,38,13,Other,Employed,36000,12,Yes,1058.86,0.43,0
+653,56,105,Other,Unknown,50000,33,No,2002.82,0.04,0
+654,48,7,Home Owner,Employed,52000,84,Yes,578.3,0.13,0
+655,61,71,Home Owner,Unknown,38000,5,No,291.4,0.11,1
+656,49,53,Other,Employed,43000,2,Yes,513.89,0.09,0
+657,44,69,Home Owner,Employed,41000,2,Yes,719.95,0.13,1
+658,42,39,Home Owner,Employed,33000,16,Yes,925.58,0.33,0
+659,53,24,Home Owner,Unknown,45000,29,No,1578.56,0.47,0
+660,52,30,Tenant,Unknown,47000,77,Yes,150.17,0,0
+661,43,79,Other,Employed,42000,25,Yes,810.51,0.14,0
+662,48,39,Tenant,Unknown,39000,27,Yes,701.3,0.11,0
+663,48,29,Home Owner,Unknown,49000,24,Yes,1460.33,0.14,0
+664,27,5,Home Owner,Unknown,38000,59,Yes,7.07,0,1
+665,48,16,Tenant,Unknown,48000,44,Yes,1528.6,0.39,1
+666,52,37,Tenant,Unknown,49000,45,Yes,1023.25,0.18,1
+667,45,53,Tenant,Unknown,41000,50,Yes,963.04,0.06,0
+668,31,48,Other,Employed,36000,20,Yes,344.04,0.1,0
+669,49,88,Tenant,Unknown,34000,77,Yes,934.82,0.05,0
+670,56,4,Tenant,Unknown,62000,2,Yes,1676.06,0.18,1
+671,70,36,Tenant,Unknown,46000,7,Yes,1528.72,0.45,0
+672,54,95,Home Owner,Employed,45000,9,Yes,328.67,0.26,0
+673,31,59,Tenant,Unknown,47000,87,Yes,1059.67,0.14,0
+674,57,44,Other,Unknown,50000,25,Yes,1120.03,0.26,0
+675,35,82,Tenant,Unknown,54000,25,Yes,327.55,0.08,0
+676,35,109,Tenant,Employed,32000,30,Yes,631,0.15,0
+677,45,24,Tenant,Employed,35000,37,Yes,180.35,0.04,1
+678,50,21,Home Owner,Employed,39000,30,No,619.28,0.12,1
+679,37,27,Tenant,Employed,31000,100,Yes,920.39,0.35,0
+680,34,32,Tenant,Unknown,25000,13,Yes,117.01,0.03,0
+681,27,9,Other,Employed,31000,48,Yes,571.81,0.02,0
+682,47,80,Tenant,Employed,36000,8,Yes,944.56,0.04,1
+683,56,70,Tenant,Unknown,41000,59,Yes,1300.32,0.16,1
+684,62,38,Tenant,Unknown,48000,33,Yes,1478.3,0.01,0
+685,60,29,Tenant,Unknown,53000,123,Yes,630.39,0.36,0
+686,48,10,Tenant,Employed,45000,53,No,1523.82,0.07,0
+687,25,43,Tenant,Unknown,30000,23,No,893.91,0.16,0
+688,37,35,Tenant,Unknown,39000,56,Yes,160.47,0.07,1
+689,62,49,Other,Unknown,61000,48,Yes,175.63,0,0
+690,33,19,Tenant,Employed,30000,36,Yes,396.9,0.13,1
+691,37,75,Home Owner,Employed,40000,65,Yes,1448.86,0.06,1
+692,40,45,Tenant,Employed,33000,15,Yes,1597.44,0.54,1
+693,44,22,Tenant,Employed,35000,54,No,349.77,0.04,0
+694,34,49,Tenant,Unknown,27000,10,Yes,674.16,0.15,0
+695,61,20,Tenant,Unknown,60000,60,Yes,46.24,0,0
+696,23,5,Tenant,Unknown,21000,36,No,808.43,0.26,1
+697,39,3,Home Owner,Unknown,29000,17,Yes,1439.77,0.19,1
+698,37,4,Tenant,Employed,36000,10,Yes,1115.72,0.54,1
+699,46,16,Tenant,Unknown,35000,5,Yes,2152.52,1.24,1
+700,35,25,Tenant,Employed,33000,82,No,551.99,0.14,0
+701,38,9,Home Owner,Unknown,37000,39,No,897.6,0.25,0
+702,51,36,Tenant,Unknown,38000,32,Yes,1909.61,0.87,1
+703,33,31,Home Owner,Unknown,26000,18,No,1607.82,0.04,1
+704,43,37,Home Owner,Unknown,30000,74,Yes,1262.87,0.67,1
+705,32,34,Home Owner,Employed,38000,22,No,1622.73,1.07,0
+706,42,52,Tenant,Employed,32000,38,Yes,232.92,0.12,0
+707,49,10,Home Owner,Unknown,44000,6,Yes,714.48,0.32,0
+708,37,56,Other,Employed,35000,69,Yes,969.41,0.67,1
+709,40,68,Other,Unknown,51000,11,Yes,143.64,0.03,1
+710,39,38,Tenant,Unknown,37000,14,No,365.65,0.09,0
+711,29,85,Tenant,Employed,24000,56,Yes,1450.98,0.6,0
+712,44,38,Other,Unknown,35000,49,Yes,1079.61,0.52,0
+713,54,60,Tenant,Unknown,40000,51,Yes,553.05,0.26,0
+714,52,16,Home Owner,Unknown,44000,46,Yes,481.25,0.14,0
+715,51,33,Other,Employed,37000,47,Yes,578.94,0.08,0
+716,31,99,Home Owner,Unknown,34000,14,Yes,1028.06,0.49,1
+717,47,34,Other,Employed,45000,35,Yes,320.23,0.06,0
+718,57,37,Tenant,Employed,54000,51,Yes,1333.6,0.51,0
+719,45,3,Home Owner,Employed,42000,29,Yes,351.15,0.02,0
+720,23,59,Home Owner,Employed,37000,57,Yes,146.59,0.09,0
+721,56,31,Other,Unknown,51000,3,Yes,1430.63,0.09,0
+722,34,18,Home Owner,Employed,34000,28,Yes,1128.6,0.52,1
+723,31,46,Tenant,Employed,26000,62,Yes,644.85,0.36,1
+724,46,32,Tenant,Employed,42000,10,No,349.19,0.31,0
+725,54,38,Home Owner,Unknown,37000,15,Yes,769.57,0.22,0
+726,49,91,Tenant,Employed,42000,42,Yes,1687.98,0.21,0
+727,40,30,Tenant,Unknown,28000,37,No,521.61,0.01,1
+728,38,54,Home Owner,Unknown,35000,41,Yes,755.53,0.1,0
+729,40,62,Other,Employed,36000,86,Yes,221.24,0,0
+730,34,123,Other,Unknown,43000,15,Yes,317.89,0.01,0
+731,45,8,Tenant,Unknown,22000,2,No,557.72,0.03,1
+732,60,31,Home Owner,Employed,53000,10,Yes,712.86,0.04,1
+733,55,207,Home Owner,Unknown,52000,36,Yes,202.25,0.03,0
+734,38,5,Home Owner,Employed,44000,20,Yes,296.78,0.14,0
+735,32,38,Tenant,Employed,38000,15,Yes,399.3,0.13,1
+736,44,98,Home Owner,Employed,35000,33,Yes,1108.86,0.03,1
+737,46,131,Tenant,Unknown,33000,27,Yes,27.89,0.01,0
+738,47,74,Tenant,Employed,35000,7,Yes,279.77,0.06,0
+739,38,11,Other,Unknown,37000,20,No,1121.23,0.22,0
+740,38,55,Tenant,Employed,52000,4,Yes,650.04,0.12,1
+741,59,13,Other,Unknown,47000,20,Yes,1906.49,0.64,1
+742,55,9,Home Owner,Unknown,40000,35,Yes,859.59,0.06,0
+743,44,81,Tenant,Unknown,30000,45,Yes,424.12,0.31,0
+744,28,31,Tenant,Employed,39000,70,Yes,1654.3,0.07,0
+745,37,62,Other,Unknown,18000,54,Yes,799.22,0.27,0
+746,38,37,Home Owner,Unknown,37000,27,Yes,1243.63,0.28,0
+747,40,77,Home Owner,Unknown,31000,7,Yes,186.56,0.01,1
+748,49,152,Home Owner,Unknown,56000,18,Yes,1086.1,0.23,0
+749,44,22,Other,Unknown,49000,8,Yes,840.79,0.08,1
+750,44,43,Other,Employed,36000,31,Yes,2428.82,0.99,0
+751,50,103,Home Owner,Employed,52000,44,Yes,21.37,0,0
+752,68,28,Tenant,Unknown,44000,24,Yes,1152.79,0.05,1
+753,53,59,Home Owner,Unknown,44000,3,No,1893.79,0.66,0
+754,51,11,Home Owner,Employed,50000,73,Yes,1439.25,0.77,0
+755,43,42,Home Owner,Employed,44000,49,Yes,65.72,0.02,0
+756,41,31,Other,Unknown,40000,6,Yes,175.41,0.06,0
+757,38,27,Home Owner,Unknown,20000,16,Yes,118.07,0.05,0
+758,52,28,Home Owner,Unknown,34000,109,Yes,516.02,0.18,0
+759,47,3,Home Owner,Unknown,46000,66,Yes,380,0.21,1
+760,46,81,Tenant,Employed,33000,4,Yes,222.57,0.04,1
+761,34,14,Tenant,Unknown,26000,91,Yes,817.37,0.06,0
+762,54,25,Tenant,Employed,40000,76,No,749.32,0.09,0
+763,55,5,Tenant,Employed,50000,49,Yes,96.06,0.01,0
+764,46,8,Tenant,Unknown,52000,28,No,2286.72,0.35,0
+765,49,11,Tenant,Employed,50000,128,No,1516.23,1.11,0
+766,59,25,Tenant,Employed,60000,14,Yes,35.47,0.01,0
+767,50,58,Home Owner,Employed,48000,55,Yes,1971.57,0.27,0
+768,45,125,Other,Unknown,34000,18,Yes,835.51,0.56,0
+769,57,35,Tenant,Unknown,50000,7,Yes,420.59,0,0
+770,63,25,Tenant,Unknown,55000,9,Yes,1127.02,0.19,0
+771,35,34,Tenant,Unknown,33000,78,Yes,27.91,0,0
+772,50,40,Home Owner,Unknown,35000,51,Yes,270.52,0.11,0
+773,61,28,Home Owner,Employed,48000,3,Yes,116.24,0,0
+774,43,23,Home Owner,Unknown,20000,24,Yes,253.26,0.06,1
+775,43,25,Home Owner,Unknown,34000,26,Yes,332.83,0.08,0
+776,48,52,Tenant,Unknown,43000,8,No,1678.67,0.04,1
+777,56,64,Tenant,Employed,45000,3,Yes,102.39,0.02,1
+778,37,15,Tenant,Unknown,34000,22,Yes,206.9,0.08,0
+779,53,22,Tenant,Employed,48000,20,No,1804.84,0.4,0
+780,43,10,Home Owner,Unknown,42000,25,Yes,1142.22,0.84,0
+781,50,29,Home Owner,Unknown,39000,9,Yes,12.2,0,0
+782,43,9,Home Owner,Unknown,32000,67,Yes,258.24,0.04,0
+783,27,26,Home Owner,Unknown,39000,32,Yes,1131.16,0.18,1
+784,28,33,Tenant,Unknown,42000,11,Yes,253.04,0.08,0
+785,28,11,Home Owner,Employed,38000,19,Yes,585,0.14,0
+786,29,18,Home Owner,Employed,28000,61,Yes,2593.68,0.76,0
+787,61,14,Tenant,Unknown,42000,47,Yes,877.38,0.03,0
+788,46,26,Tenant,Employed,32000,44,Yes,181.35,0.06,0
+789,46,98,Other,Employed,47000,39,Yes,1299.59,0.17,1
+790,43,29,Other,Unknown,40000,100,Yes,0.21,0,0
+791,42,6,Home Owner,Employed,39000,3,Yes,500.72,0.13,1
+792,39,41,Home Owner,Unknown,20000,113,Yes,1023.5,0.15,0
+793,35,49,Home Owner,Employed,29000,14,Yes,1480.07,0.73,0
+794,40,36,Home Owner,Unknown,42000,23,Yes,352.77,0.16,1
+795,40,68,Home Owner,Employed,33000,55,Yes,377.5,0.1,0
+796,42,47,Home Owner,Employed,30000,71,No,1318.72,0.06,0
+797,47,39,Home Owner,Employed,47000,20,Yes,818.26,0.51,0
+798,32,130,Home Owner,Unknown,31000,12,Yes,343.1,0.12,0
+799,53,7,Other,Unknown,48000,31,No,777.42,0.15,0
+800,45,85,Home Owner,Employed,31000,63,Yes,1206.96,0.4,1
+801,53,42,Tenant,Employed,36000,8,Yes,629.15,0.27,1
+802,44,22,Home Owner,Employed,40000,33,Yes,58.4,0,0
+803,51,6,Tenant,Unknown,41000,15,Yes,8.5,0,1
+804,48,50,Tenant,Employed,36000,40,Yes,48.68,0.01,0
+805,33,22,Home Owner,Employed,31000,26,Yes,1591.92,0.43,1
+806,57,83,Other,Unknown,40000,8,Yes,1314.1,0.31,0
+807,40,39,Home Owner,Unknown,35000,97,Yes,1303.77,0.13,0
+808,51,73,Tenant,Employed,43000,36,No,1491.13,0.23,1
+809,40,3,Other,Employed,42000,19,No,476.25,0,0
+810,47,41,Home Owner,Employed,37000,36,Yes,698.47,0.15,1
+811,33,4,Home Owner,Unknown,25000,15,Yes,905.51,0.41,1
+812,23,86,Tenant,Employed,23000,7,Yes,617.33,0.07,1
+813,45,79,Tenant,Employed,42000,4,Yes,719.7,0.41,1
+814,61,19,Home Owner,Unknown,54000,6,Yes,614.42,0.11,0
+815,43,25,Tenant,Employed,34000,63,Yes,144.33,0.01,0
+816,32,55,Other,Employed,31000,16,Yes,359.84,0.15,0
+817,26,64,Home Owner,Employed,21000,74,Yes,1395.67,0.28,1
+818,57,34,Home Owner,Unknown,51000,65,Yes,1806.3,0.34,1
+819,57,46,Other,Unknown,47000,23,Yes,560.46,0.45,0
+820,41,70,Home Owner,Employed,31000,47,Yes,976.15,0.24,0
+821,54,29,Home Owner,Unknown,37000,12,Yes,1492.77,0.32,0
+822,44,37,Home Owner,Unknown,46000,15,Yes,499.71,0.15,1
+823,42,45,Tenant,Unknown,45000,21,Yes,600.26,0.14,0
+824,52,18,Tenant,Unknown,46000,45,Yes,675.58,0.42,1
+825,43,72,Home Owner,Employed,31000,42,Yes,659.36,0.01,1
+826,46,29,Other,Unknown,54000,40,No,1499.58,0.32,0
+827,37,7,Tenant,Employed,37000,50,No,1454.89,0.34,0
+828,37,27,Tenant,Unknown,46000,46,Yes,626.98,0.07,0
+829,41,37,Home Owner,Employed,35000,104,Yes,599.16,0.39,0
+830,62,22,Home Owner,Unknown,51000,33,Yes,74.2,0.03,0
+831,57,53,Tenant,Unknown,56000,31,Yes,47.98,0,1
+832,56,38,Home Owner,Employed,40000,6,Yes,1472.42,0.03,0
+833,50,57,Home Owner,Employed,46000,12,Yes,1741.01,0.34,0
+834,48,44,Tenant,Unknown,39000,83,Yes,35.25,0.01,0
+835,45,53,Tenant,Employed,44000,27,Yes,509.43,0.32,0
+836,50,79,Home Owner,Unknown,39000,6,Yes,83.4,0.02,1
+837,39,11,Tenant,Unknown,34000,57,Yes,1651.57,0.81,0
+838,41,11,Other,Employed,31000,39,Yes,1153.75,0.44,0
+839,40,13,Other,Employed,48000,47,Yes,1562.13,0.2,0
+840,43,38,Home Owner,Unknown,43000,12,Yes,187.71,0.06,0
+841,46,45,Home Owner,Unknown,38000,23,Yes,82.21,0.05,1
+842,28,59,Other,Unknown,26000,13,Yes,2262.99,0.31,0
+843,45,8,Home Owner,Employed,31000,9,Yes,428.7,0.33,0
+844,52,2,Tenant,Unknown,37000,65,No,401.68,0.06,0
+845,33,47,Home Owner,Unknown,31000,25,Yes,80.74,0,1
+846,62,71,Home Owner,Unknown,48000,81,No,1852.67,0.49,0
+847,64,35,Home Owner,Employed,53000,15,Yes,1043.55,0.08,0
+848,52,10,Home Owner,Unknown,39000,5,Yes,709.88,0.36,0
+849,64,69,Home Owner,Unknown,53000,45,Yes,672,0.04,0
+850,47,38,Tenant,Employed,34000,14,Yes,876.34,0.11,0
+851,52,27,Home Owner,Employed,52000,31,Yes,663.57,0.14,0
+852,41,76,Home Owner,Unknown,34000,60,Yes,842.8,0.34,1
+853,43,21,Tenant,Unknown,34000,3,Yes,853.07,0.34,0
+854,39,37,Home Owner,Employed,30000,35,Yes,70,0.01,0
+855,45,7,Home Owner,Employed,42000,19,Yes,222.46,0.11,0
+856,45,4,Home Owner,Unknown,33000,32,Yes,1235.37,0.38,0
+857,31,34,Tenant,Employed,35000,6,Yes,170.18,0.13,0
+858,55,39,Tenant,Unknown,45000,24,Yes,1434.79,0.47,0
+859,40,40,Home Owner,Employed,28000,24,No,2247.34,0.45,0
+860,59,5,Home Owner,Unknown,40000,92,Yes,2152.68,1.09,0
+861,45,37,Home Owner,Unknown,43000,29,Yes,1707.39,0.05,1
+862,37,15,Tenant,Unknown,29000,28,No,1392.05,0.58,0
+863,30,46,Tenant,Unknown,32000,20,Yes,1184.38,0.82,1
+864,51,20,Tenant,Unknown,49000,22,No,1082.44,0.61,0
+865,45,7,Other,Employed,37000,48,Yes,398.9,0.05,0
+866,34,30,Other,Employed,29000,37,Yes,546.97,0.05,0
+867,48,159,Home Owner,Employed,39000,70,Yes,213.51,0,0
+868,35,16,Home Owner,Unknown,36000,63,Yes,2383.03,1.79,0
+869,40,24,Tenant,Employed,38000,31,Yes,755.85,0.29,1
+870,33,81,Home Owner,Employed,31000,36,Yes,390.5,0.02,1
+871,48,58,Tenant,Unknown,38000,39,Yes,1010.06,0.15,1
+872,57,43,Tenant,Unknown,41000,44,Yes,79.07,0.02,0
+873,60,3,Home Owner,Unknown,46000,101,Yes,464.51,0.09,0
+874,48,10,Other,Unknown,43000,29,Yes,15.01,0,1
+875,49,4,Tenant,Unknown,52000,26,No,601.58,0.2,1
+876,52,32,Tenant,Unknown,43000,16,Yes,1333.2,0.13,0
+877,30,28,Tenant,Unknown,32000,35,Yes,303.61,0.04,0
+878,52,108,Other,Unknown,48000,7,Yes,1534.3,0.57,0
+879,56,9,Tenant,Unknown,41000,4,Yes,405.86,0.17,1
+880,46,61,Tenant,Employed,32000,40,Yes,1028.09,0.64,0
+881,41,67,Other,Unknown,29000,28,Yes,1105.45,0.85,1
+882,46,54,Tenant,Unknown,43000,86,Yes,865.6,0.34,0
+883,41,16,Tenant,Unknown,33000,100,No,927.59,0.14,1
+884,49,38,Tenant,Employed,45000,35,Yes,249.67,0.03,0
+885,50,38,Other,Unknown,59000,41,No,710.1,0.2,1
+886,24,78,Other,Unknown,29000,15,No,2999.98,0.34,1
+887,57,32,Tenant,Employed,42000,43,No,409.75,0.18,1
+888,52,82,Other,Unknown,51000,40,Yes,218.11,0.08,0
+889,51,64,Home Owner,Unknown,42000,8,No,2359.32,0.57,1
+890,40,31,Home Owner,Employed,35000,82,Yes,281.13,0.09,0
+891,51,30,Home Owner,Employed,38000,93,Yes,489.24,0.42,0
+892,36,21,Tenant,Unknown,28000,4,Yes,72.03,0.01,0
+893,36,40,Other,Unknown,30000,6,No,517.55,0.14,1
+894,37,18,Home Owner,Unknown,30000,55,No,1122.47,0.2,0
+895,51,108,Home Owner,Unknown,50000,10,Yes,330.56,0.07,1
+896,36,5,Tenant,Unknown,38000,72,Yes,3.4,0,0
+897,31,3,Home Owner,Employed,25000,32,Yes,1286.34,0.5,1
+898,54,17,Home Owner,Unknown,46000,50,Yes,1662.35,0.43,0
+899,41,76,Home Owner,Unknown,40000,21,Yes,1112.64,0.01,0
+900,32,43,Home Owner,Unknown,24000,31,Yes,467.37,0.04,1
+901,48,55,Tenant,Unknown,32000,7,No,198.08,0.03,0
+902,56,30,Home Owner,Unknown,39000,35,Yes,1459.11,0.37,0
+903,40,5,Tenant,Employed,36000,32,Yes,21.31,0.02,0
+904,69,2,Tenant,Unknown,54000,35,No,82.39,0.03,0
+905,52,36,Home Owner,Unknown,43000,66,Yes,1153.83,0.61,0
+906,46,34,Tenant,Unknown,46000,59,Yes,183.39,0.13,0
+907,42,30,Tenant,Unknown,46000,78,Yes,337.25,0.13,0
+908,39,28,Tenant,Unknown,27000,32,Yes,1954.88,0.14,1
+909,42,27,Home Owner,Unknown,44000,43,Yes,301.34,0.07,0
+910,62,9,Home Owner,Unknown,47000,52,No,775.9,0.38,0
+911,39,79,Home Owner,Employed,45000,34,Yes,536.01,0.08,0
+912,42,74,Home Owner,Employed,37000,8,Yes,414.97,0.05,1
+913,47,55,Tenant,Employed,32000,95,No,1976.98,0.51,0
+914,47,40,Home Owner,Unknown,41000,41,Yes,1346.37,0.65,0
+915,46,47,Home Owner,Employed,39000,26,Yes,974.27,0.29,1
+916,49,42,Home Owner,Employed,33000,32,Yes,931.24,0.27,1
+917,51,55,Home Owner,Unknown,43000,2,Yes,1232.05,0.9,0
+918,59,36,Tenant,Employed,39000,16,Yes,1606.17,0.56,0
+919,36,74,Tenant,Unknown,32000,28,Yes,1389.12,0.32,1
+920,28,52,Tenant,Employed,45000,7,Yes,292.99,0.07,0
+921,48,46,Tenant,Unknown,42000,35,Yes,791.87,0.11,0
+922,29,11,Home Owner,Unknown,38000,5,Yes,876.17,0.7,0
+923,49,14,Other,Employed,48000,43,No,144.43,0.07,0
+924,41,45,Tenant,Unknown,30000,40,Yes,854.97,0.04,0
+925,50,80,Tenant,Employed,43000,46,Yes,315.55,0.02,0
+926,58,56,Home Owner,Employed,56000,44,Yes,447.74,0.08,1
+927,54,37,Tenant,Unknown,44000,14,No,1051.22,0.19,1
+928,38,42,Home Owner,Unknown,56000,11,No,2360.09,1.24,0
+929,57,98,Home Owner,Unknown,62000,70,Yes,873.01,0.41,0
+930,48,33,Home Owner,Employed,46000,4,No,278.83,0.01,0
+931,57,17,Tenant,Employed,52000,16,Yes,302.62,0.02,0
+932,39,40,Home Owner,Unknown,42000,37,Yes,333.23,0.02,1
+933,45,22,Home Owner,Employed,42000,30,Yes,912.81,0.17,1
+934,60,17,Other,Employed,45000,25,Yes,1006.56,0.24,1
+935,38,18,Home Owner,Unknown,35000,6,No,554.25,0.46,0
+936,41,13,Other,Employed,35000,13,Yes,893.41,0.45,0
+937,43,44,Home Owner,Unknown,35000,48,No,1680.26,0.12,1
+938,69,12,Other,Employed,54000,37,No,2075.51,0.86,0
+939,37,16,Home Owner,Unknown,44000,65,Yes,1092.75,0.11,1
+940,37,9,Other,Unknown,32000,45,Yes,107.52,0.04,0
+941,42,49,Home Owner,Unknown,41000,4,Yes,654.82,0.13,0
+942,26,17,Other,Unknown,18000,37,Yes,39.24,0.01,1
+943,38,9,Tenant,Employed,35000,27,Yes,786.59,0.2,0
+944,54,33,Tenant,Unknown,44000,34,No,1027.13,0.33,0
+945,42,50,Tenant,Unknown,37000,17,Yes,606.44,0.07,1
+946,54,11,Other,Employed,47000,25,Yes,1055.71,0.23,0
+947,40,6,Home Owner,Unknown,40000,47,Yes,1282.23,0.18,0
+948,61,10,Tenant,Employed,52000,3,Yes,466.11,0.1,0
+949,55,25,Tenant,Employed,40000,24,Yes,599.78,0.01,0
+950,44,64,Tenant,Unknown,38000,117,Yes,938.67,0.16,0
+951,58,86,Tenant,Employed,43000,22,Yes,1250.62,0.05,0
+952,42,51,Home Owner,Employed,37000,21,Yes,619.94,0.15,0
+953,34,65,Home Owner,Unknown,29000,12,Yes,1095.16,0.25,1
+954,30,17,Other,Unknown,33000,43,Yes,210.31,0,0
+955,47,17,Tenant,Employed,60000,63,Yes,433.47,0.02,0
+956,49,115,Other,Unknown,45000,33,Yes,534.62,0.12,0
+957,28,23,Home Owner,Employed,28000,9,Yes,55.83,0.04,1
+958,47,42,Tenant,Unknown,37000,43,Yes,810.05,0.12,0
+959,48,43,Tenant,Employed,32000,29,Yes,293.87,0.05,1
+960,48,46,Home Owner,Unknown,32000,26,Yes,416.8,0.04,1
+961,40,61,Tenant,Employed,37000,39,Yes,519.12,0.15,0
+962,52,29,Home Owner,Employed,50000,28,Yes,180.91,0.04,0
+963,30,55,Tenant,Employed,29000,36,Yes,52.46,0,0
+964,38,35,Tenant,Employed,29000,20,Yes,201.34,0.06,1
+965,52,87,Home Owner,Unknown,43000,44,Yes,254.33,0.05,0
+966,54,30,Other,Unknown,48000,23,Yes,1115.37,0.36,0
+967,25,7,Other,Unknown,30000,53,Yes,352.83,0.05,1
+968,54,60,Tenant,Employed,39000,51,Yes,1025.79,0.54,1
+969,37,54,Home Owner,Employed,31000,9,Yes,12.42,0,0
+970,44,10,Tenant,Employed,42000,18,Yes,20.7,0.01,0
+971,30,31,Home Owner,Unknown,26000,7,Yes,902.43,0.63,1
+972,34,33,Home Owner,Employed,41000,26,Yes,180.17,0.13,1
+973,68,43,Tenant,Employed,48000,40,Yes,64.33,0.02,0
+974,42,31,Tenant,Employed,35000,19,No,468.67,0.04,0
+975,35,105,Other,Employed,43000,7,Yes,990.66,0.32,0
+976,45,74,Other,Unknown,33000,23,Yes,555.41,0.09,1
+977,48,46,Tenant,Unknown,39000,6,Yes,1143.84,0.24,1
+978,46,15,Tenant,Unknown,37000,64,No,411.01,0.16,1
+979,55,57,Other,Employed,41000,71,Yes,652.86,0.16,0
+980,40,48,Home Owner,Unknown,43000,9,Yes,1080.69,0.33,0
+981,68,57,Home Owner,Unknown,53000,19,No,1634.2,0.03,0
+982,58,72,Tenant,Employed,44000,44,Yes,751.55,0.01,0
+983,48,60,Tenant,Employed,47000,31,Yes,246.51,0.01,1
+984,39,22,Home Owner,Unknown,30000,40,Yes,795.73,0.24,1
+985,51,48,Other,Employed,38000,95,Yes,495.15,0.13,0
+986,29,21,Home Owner,Employed,30000,28,Yes,744.52,0.18,0
+987,45,50,Other,Unknown,21000,33,Yes,896.02,0.37,0
+988,45,12,Tenant,Employed,34000,2,Yes,890.31,0.26,1
+989,48,79,Home Owner,Employed,41000,42,No,152.2,0.03,1
+990,41,110,Home Owner,Unknown,46000,6,Yes,302.46,0.12,0
+991,49,29,Home Owner,Employed,35000,11,Yes,80.66,0.01,0
+992,33,79,Home Owner,Employed,33000,43,Yes,435.51,0.08,0
+993,44,67,Tenant,Unknown,37000,18,Yes,417.27,0.04,0
+994,50,19,Tenant,Employed,34000,54,Yes,81.14,0.03,0
+995,55,42,Home Owner,Unknown,42000,13,Yes,262.37,0.07,0
+996,47,24,Other,Employed,39000,29,Yes,1170.18,0.08,0
+997,44,18,Home Owner,Unknown,43000,21,Yes,575.49,0.19,0
+998,56,61,Tenant,Employed,37000,19,Yes,143.55,0.01,0
+999,66,18,Other,Unknown,42000,14,Yes,1234.28,0.29,0
+1000,48,43,Home Owner,Employed,40000,8,Yes,45.47,0.04,1
+1001,49,28,Other,Unknown,40000,97,Yes,705.57,0.43,0
+1002,46,61,Home Owner,Employed,36000,48,Yes,2379.51,1.04,1
+1003,58,28,Tenant,Employed,47000,5,Yes,874.08,0.02,0
+1004,32,17,Tenant,Employed,42000,31,Yes,1891.69,1.2,1
+1005,28,67,Home Owner,Unknown,23000,66,Yes,713.23,0.02,0
+1006,53,36,Tenant,Employed,49000,43,Yes,1013.73,0.31,1
+1007,67,52,Other,Unknown,50000,14,Yes,1500.1,0.13,0
+1008,40,48,Tenant,Employed,48000,60,No,465.62,0.06,0
+1009,62,42,Tenant,Unknown,42000,19,No,1155.07,0.69,0
+1010,45,94,Home Owner,Employed,54000,7,No,387.49,0.29,0
+1011,47,142,Home Owner,Unknown,39000,23,Yes,1375.09,0.55,0
+1012,54,36,Home Owner,Unknown,40000,75,Yes,653.5,0.07,0
+1013,37,22,Home Owner,Employed,40000,13,Yes,306.73,0.2,0
+1014,45,16,Other,Unknown,35000,21,No,156.44,0.05,0
+1015,41,33,Home Owner,Unknown,29000,23,Yes,1080.36,0.05,1
+1016,38,5,Home Owner,Unknown,37000,13,No,1724.61,0.3,0
+1017,42,81,Tenant,Unknown,23000,59,No,1101.8,0.04,1
+1018,50,12,Home Owner,Employed,36000,7,Yes,357.05,0.09,0
+1019,48,58,Home Owner,Employed,39000,18,Yes,151.77,0.01,1
+1020,39,22,Home Owner,Unknown,45000,42,Yes,871.76,0.13,0
+1021,33,3,Other,Unknown,31000,53,No,1076.33,0.37,0
+1022,48,28,Home Owner,Unknown,43000,34,No,225.5,0.07,0
+1023,22,36,Home Owner,Unknown,34000,21,Yes,152.47,0.04,0
+1024,32,16,Home Owner,Employed,33000,55,No,488.72,0.09,0
+1025,33,28,Other,Employed,39000,8,Yes,19.92,0,0
+1026,55,70,Home Owner,Employed,44000,21,Yes,318.36,0.01,0
+1027,38,143,Home Owner,Unknown,40000,18,Yes,1128.8,0.15,1
+1028,39,8,Tenant,Unknown,32000,19,Yes,180.76,0.1,0
+1029,43,56,Home Owner,Unknown,36000,15,Yes,1187.26,0.45,1
+1030,26,46,Home Owner,Unknown,36000,21,Yes,712.63,0.3,0
+1031,36,53,Home Owner,Employed,29000,67,Yes,895.32,0.13,0
+1032,43,46,Home Owner,Employed,40000,23,No,727.14,0.15,1
+1033,39,9,Home Owner,Unknown,37000,43,Yes,856.91,0.37,0
+1034,38,19,Tenant,Unknown,32000,4,No,1503.46,0.89,1
+1035,60,12,Other,Unknown,48000,28,Yes,415.7,0.1,0
+1036,45,93,Home Owner,Unknown,34000,36,Yes,1278.13,0.11,0
+1037,46,48,Home Owner,Employed,41000,59,Yes,559.42,0.14,0
+1038,55,4,Home Owner,Employed,38000,75,Yes,237.32,0.05,1
+1039,40,25,Home Owner,Unknown,37000,30,Yes,1242.78,0.49,0
+1040,37,75,Tenant,Unknown,29000,33,Yes,1096.38,0.28,0
+1041,44,45,Home Owner,Unknown,44000,3,No,184.55,0.02,0
+1042,43,2,Home Owner,Unknown,32000,14,Yes,1509.81,0.57,1
+1043,45,24,Home Owner,Unknown,61000,47,Yes,1414.7,0.05,0
+1044,50,14,Other,Employed,47000,49,Yes,1427.67,0.08,0
+1045,68,9,Home Owner,Employed,53000,16,Yes,484.72,0.34,0
+1046,46,12,Tenant,Employed,42000,71,No,1149.72,0.14,1
+1047,36,11,Home Owner,Unknown,43000,37,No,534.09,0.07,0
+1048,36,8,Home Owner,Unknown,49000,10,Yes,575.58,0.43,0
+1049,57,45,Home Owner,Employed,42000,45,Yes,2202.87,0.11,0
+1050,46,70,Home Owner,Unknown,41000,38,Yes,367.48,0.09,1
+1051,52,73,Tenant,Unknown,42000,35,Yes,263.72,0.08,0
+1052,58,20,Tenant,Employed,48000,7,Yes,170.02,0.01,0
+1053,39,24,Tenant,Unknown,38000,17,Yes,29.88,0.01,1
+1054,38,7,Home Owner,Unknown,49000,34,Yes,788.03,0,0
+1055,49,23,Tenant,Employed,50000,65,No,1215.48,0.08,0
+1056,52,14,Home Owner,Unknown,42000,24,Yes,432.74,0.15,0
+1057,41,21,Home Owner,Unknown,31000,13,Yes,62.62,0.01,0
+1058,26,30,Tenant,Employed,27000,10,Yes,354.69,0.07,0
+1059,41,53,Other,Unknown,34000,62,Yes,623.94,0.09,1
+1060,39,145,Home Owner,Unknown,21000,5,Yes,1165.89,0.11,0
+1061,54,6,Other,Unknown,42000,25,Yes,2022.08,0.41,1
+1062,50,25,Home Owner,Unknown,37000,83,Yes,830.67,0.02,1
+1063,37,26,Tenant,Unknown,37000,9,Yes,73.61,0.01,0
+1064,54,11,Tenant,Employed,52000,26,No,178.24,0.06,0
+1065,50,95,Home Owner,Employed,38000,98,Yes,419.51,0.01,0
+1066,66,31,Tenant,Unknown,53000,8,Yes,877.89,0.46,0
+1067,51,30,Home Owner,Employed,43000,63,No,1818.31,0.16,0
+1068,43,32,Tenant,Unknown,32000,16,No,730.41,0.35,1
+1069,40,97,Tenant,Unknown,36000,51,Yes,683.28,0.08,0
+1070,34,26,Home Owner,Employed,40000,32,Yes,676.98,0.19,1
+1071,44,56,Tenant,Unknown,34000,79,Yes,594.77,0.02,1
+1072,54,19,Tenant,Employed,40000,12,Yes,957.64,0.17,0
+1073,44,27,Home Owner,Unknown,34000,20,Yes,1974.32,0.74,0
+1074,31,87,Other,Unknown,36000,28,Yes,351.23,0.15,0
+1075,35,11,Other,Employed,32000,33,Yes,229.03,0.03,1
+1076,45,36,Tenant,Unknown,37000,59,Yes,556.8,0.16,0
+1077,41,75,Home Owner,Unknown,30000,30,Yes,948.29,0.43,0
+1078,43,56,Home Owner,Unknown,32000,24,Yes,1394.4,0.14,0
+1079,52,29,Home Owner,Employed,40000,15,No,433.56,0.18,0
+1080,49,58,Home Owner,Employed,37000,46,No,801.08,0.17,1
+1081,36,29,Home Owner,Unknown,42000,12,Yes,486.53,0.27,0
+1082,39,17,Tenant,Unknown,40000,3,Yes,1181.43,0.02,0
+1083,32,106,Tenant,Employed,28000,14,Yes,1854.79,0.24,1
+1084,46,24,Home Owner,Employed,48000,11,Yes,16.52,0,0
+1085,30,55,Home Owner,Unknown,35000,23,Yes,844.87,0,1
+1086,37,30,Other,Unknown,44000,9,Yes,731.11,0.46,0
+1087,50,14,Tenant,Employed,42000,66,Yes,229.89,0.03,0
+1088,35,75,Home Owner,Employed,29000,50,Yes,1379.72,0.28,1
+1089,35,30,Tenant,Unknown,35000,22,Yes,613.74,0.03,1
+1090,52,2,Other,Employed,46000,2,Yes,211.83,0.05,0
+1091,48,61,Tenant,Employed,45000,20,Yes,108.8,0.03,0
+1092,54,55,Tenant,Employed,35000,8,Yes,1903.08,0.21,0
+1093,40,35,Tenant,Employed,29000,35,No,264.14,0.07,1
+1094,43,39,Tenant,Unknown,33000,72,No,1114.97,0.35,0
+1095,60,11,Tenant,Employed,45000,54,No,2085.3,0.35,0
+1096,46,95,Tenant,Unknown,39000,13,Yes,303.09,0,1
+1097,32,35,Tenant,Unknown,39000,12,Yes,1719.63,0.87,0
+1098,44,56,Home Owner,Unknown,33000,8,Yes,826.94,0.24,0
+1099,45,5,Home Owner,Unknown,18000,61,Yes,1126.71,0.19,0
+1100,34,3,Home Owner,Employed,35000,53,No,525.92,0.02,0
+1101,50,42,Tenant,Unknown,35000,38,Yes,1150.51,0.72,0
+1102,41,44,Home Owner,Unknown,37000,30,Yes,61.47,0.02,0
+1103,52,79,Home Owner,Employed,43000,36,Yes,539.92,0.01,1
+1104,35,34,Tenant,Unknown,39000,20,Yes,453.26,0.08,0
+1105,54,23,Tenant,Employed,38000,12,Yes,1223.42,0.17,0
+1106,44,53,Tenant,Unknown,34000,9,Yes,173.22,0.05,0
+1107,46,5,Home Owner,Employed,40000,4,No,542.19,0.41,0
+1108,53,26,Tenant,Unknown,47000,41,Yes,779.59,0.05,0
+1109,40,27,Home Owner,Unknown,36000,16,Yes,1111.8,0.01,0
+1110,40,79,Tenant,Employed,41000,85,Yes,1670.61,0.71,1
+1111,47,147,Home Owner,Unknown,43000,12,Yes,336.47,0.21,1
+1112,55,48,Home Owner,Employed,46000,22,Yes,948.36,0.58,1
+1113,30,30,Tenant,Unknown,24000,66,Yes,552.58,0.05,1
+1114,46,45,Other,Employed,36000,47,Yes,574.28,0.28,0
+1115,51,58,Home Owner,Employed,34000,58,Yes,203.37,0.03,0
+1116,54,10,Tenant,Employed,37000,32,Yes,207.16,0.1,1
+1117,59,22,Tenant,Unknown,37000,19,Yes,1379.64,1.09,0
+1118,42,41,Tenant,Unknown,44000,14,Yes,1684.51,0.52,0
+1119,47,71,Tenant,Unknown,45000,35,Yes,1114.95,0.08,0
+1120,45,35,Home Owner,Unknown,18000,16,Yes,2013.62,0.04,1
+1121,49,97,Tenant,Employed,43000,37,Yes,1506.18,0.68,0
+1122,36,17,Home Owner,Unknown,33000,17,Yes,388.45,0.03,0
+1123,29,34,Tenant,Unknown,39000,21,Yes,513.66,0.08,1
+1124,43,61,Tenant,Employed,49000,46,Yes,633.13,0.13,0
+1125,40,36,Home Owner,Unknown,28000,23,Yes,143.17,0.06,0
+1126,35,64,Tenant,Unknown,38000,36,Yes,706,0.11,0
+1127,37,15,Other,Unknown,37000,54,Yes,1692.38,0.64,1
+1128,46,62,Home Owner,Employed,43000,16,Yes,1447.89,0.3,0
+1129,42,44,Home Owner,Employed,38000,13,Yes,116.32,0.02,1
+1130,34,36,Home Owner,Unknown,46000,21,No,920.41,0.15,1
+1131,43,55,Home Owner,Unknown,34000,46,No,1087.56,0.2,1
+1132,52,68,Home Owner,Employed,50000,13,Yes,1789.18,0.69,0
+1133,32,21,Home Owner,Employed,40000,53,Yes,435.31,0.09,1
+1134,49,24,Other,Unknown,34000,28,Yes,856.01,0.31,0
+1135,60,3,Home Owner,Employed,53000,27,Yes,100.47,0.01,1
+1136,39,17,Tenant,Unknown,37000,58,Yes,936.54,0.29,1
+1137,45,86,Home Owner,Employed,37000,36,Yes,1808.78,0.24,0
+1138,33,3,Other,Employed,33000,11,Yes,79.13,0.02,1
+1139,58,123,Tenant,Unknown,39000,5,Yes,803.96,0.14,1
+1140,65,46,Tenant,Employed,56000,51,Yes,776.08,0.29,0
+1141,42,5,Other,Unknown,33000,77,Yes,743.99,0.02,0
+1142,24,39,Tenant,Unknown,45000,48,Yes,798.01,0.6,0
+1143,40,5,Tenant,Unknown,20000,46,Yes,1627.06,1.02,0
+1144,48,120,Home Owner,Unknown,44000,4,Yes,1205.96,0.26,0
+1145,47,6,Tenant,Employed,33000,48,No,1512.63,0.35,0
+1146,42,34,Tenant,Employed,51000,76,Yes,903.14,0.01,0
+1147,58,35,Home Owner,Employed,46000,2,Yes,1170.58,0.43,1
+1148,32,6,Tenant,Unknown,41000,21,No,957.38,0.12,1
+1149,66,42,Tenant,Employed,43000,26,Yes,378.82,0.09,0
+1150,46,52,Home Owner,Unknown,43000,66,No,648.31,0.22,0
+1151,45,15,Home Owner,Employed,39000,15,Yes,929.77,0.23,0
+1152,39,32,Home Owner,Employed,40000,10,No,499.84,0.06,0
+1153,30,20,Home Owner,Unknown,23000,18,Yes,1056.82,0.5,0
+1154,47,39,Tenant,Employed,33000,14,Yes,418.84,0.13,0
+1155,51,45,Home Owner,Unknown,50000,56,Yes,75.88,0.03,0
+1156,35,26,Home Owner,Employed,35000,27,Yes,636.27,0.25,0
+1157,47,37,Home Owner,Employed,34000,15,Yes,1610.74,0.19,0
+1158,51,9,Home Owner,Employed,40000,101,Yes,701.32,0.18,0
+1159,31,75,Other,Unknown,25000,47,No,363.38,0.06,1
+1160,46,15,Tenant,Unknown,38000,16,Yes,402.1,0.03,0
+1161,36,80,Tenant,Employed,39000,92,Yes,149.77,0.01,0
+1162,59,116,Home Owner,Unknown,43000,47,Yes,664.23,0.02,0
+1163,25,5,Other,Unknown,25000,6,Yes,625.33,0.18,0
+1164,39,21,Other,Unknown,45000,14,Yes,309.43,0.07,1
+1165,49,77,Tenant,Unknown,42000,2,Yes,111.99,0.04,0
+1166,35,37,Home Owner,Employed,25000,4,Yes,905.73,0,0
+1167,56,21,Home Owner,Employed,51000,55,Yes,1320.78,0.89,0
+1168,68,102,Other,Unknown,50000,39,Yes,176.17,0.06,0
+1169,39,48,Home Owner,Employed,51000,38,Yes,1573.61,0.13,0
+1170,53,40,Tenant,Employed,57000,81,No,108.71,0,1
+1171,30,14,Home Owner,Employed,47000,12,Yes,294.58,0.05,1
+1172,46,54,Tenant,Unknown,43000,31,Yes,648.18,0.32,1
+1173,44,6,Home Owner,Employed,35000,27,Yes,1001.42,0.67,0
+1174,46,27,Tenant,Unknown,47000,19,Yes,189.45,0.01,1
+1175,51,43,Tenant,Employed,48000,7,Yes,507.43,0.03,0
+1176,52,42,Tenant,Employed,53000,5,Yes,278.68,0.01,0
+1177,39,8,Other,Employed,28000,30,Yes,375.18,0.05,0
+1178,54,2,Other,Unknown,43000,47,Yes,176.97,0.02,0
+1179,35,13,Tenant,Employed,26000,14,Yes,857.76,0.35,1
+1180,55,75,Home Owner,Unknown,40000,17,Yes,377.94,0.15,0
+1181,36,39,Other,Unknown,26000,18,Yes,1067.32,0.05,1
+1182,34,103,Home Owner,Employed,28000,23,No,0.58,0,1
+1183,41,24,Home Owner,Unknown,29000,74,Yes,1072.8,0.16,0
+1184,55,57,Tenant,Employed,46000,41,Yes,285.39,0,0
+1185,50,32,Tenant,Unknown,37000,26,Yes,1141.43,0.59,0
+1186,41,14,Other,Unknown,34000,22,Yes,1344.19,0.29,1
+1187,43,62,Tenant,Unknown,32000,57,Yes,1329.36,0.57,1
+1188,37,60,Tenant,Employed,38000,3,Yes,638.65,0.05,1
+1189,45,34,Home Owner,Employed,43000,14,Yes,127.16,0.05,0
+1190,37,23,Home Owner,Employed,42000,58,Yes,159.59,0.04,0
+1191,45,2,Other,Employed,39000,4,Yes,711.09,0.17,0
+1192,54,36,Home Owner,Unknown,35000,44,Yes,716.29,0.19,1
+1193,56,21,Home Owner,Employed,44000,53,No,342.09,0.18,1
+1194,34,54,Home Owner,Unknown,35000,25,Yes,1522.5,0.47,1
+1195,64,9,Home Owner,Employed,49000,18,No,953.14,0.07,0
+1196,54,92,Home Owner,Unknown,41000,51,Yes,1230.98,0.35,0
+1197,36,19,Tenant,Unknown,45000,4,Yes,239.28,0.13,1
+1198,29,35,Home Owner,Employed,27000,47,Yes,16.18,0.01,1
+1199,56,66,Tenant,Employed,38000,48,Yes,1009.24,0.47,0
+1200,44,24,Tenant,Unknown,41000,16,Yes,1039.4,0.19,0
