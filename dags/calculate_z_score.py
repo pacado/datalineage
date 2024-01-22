@@ -25,21 +25,21 @@ dataset = AirflowDataset("data/credit-data.csv")
 ol_client = OpenLineageClient(ol_url)
 print(ol_client)
 
-namespace = "modelscape"
+namespace = "DataLineage"
 
-job = Job(namespace=namespace, name="modelscape.calculate_z_score")
+job = Job(namespace=namespace, name="DataLineage.calculate_z_score")
 
-credit = OpenlineageDataset(namespace=namespace, name="modelscape.credit")
-avg_age = OpenlineageDataset(namespace=namespace, name="modelscape.avg_age")
-std_age = OpenlineageDataset(namespace=namespace, name="modelscape.std_age")
-z_age = OpenlineageDataset(namespace=namespace, name="modelscape.z_age")
+credit = OpenlineageDataset(namespace=namespace, name="DataLineage.credit")
+avg_age = OpenlineageDataset(namespace=namespace, name="DataLineage.avg_age")
+std_age = OpenlineageDataset(namespace=namespace, name="DataLineage.std_age")
+z_age = OpenlineageDataset(namespace=namespace, name="DataLineage.z_age")
 producer = "MathWorks.com"
 headers = {'Content-Type': 'application/json'}
 
 
 def _model1_calc_stats():
 
-    job = "modelscape.calc_mean_std"
+    job = "DataLineage.calc_mean_std"
     runId = str(uuid4())
     run = Run(runId)
 
@@ -104,7 +104,7 @@ def _model1_calc_stats():
 
 def _model2_z_score(ti):
 
-    job = "modelscape.calc_z_score"
+    job = "DataLineage.calc_z_score"
     runId = str(uuid4())
 
     payload_start = json.dumps({
